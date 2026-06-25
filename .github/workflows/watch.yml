@@ -1,0 +1,38 @@
+name: slunks-watch
+
+on:
+  schedule:
+    - cron: "*/15 * * * *" # every 15 min (GitHub may lag a few min)
+  workflow_dispatch: {} # manual run button
+
+# allow the job to push snapshot.json back to the repo
+permissions:
+  contents: write
+
+concurrency:
+  group: slunks-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Check catalog
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT: ${{ secrets.TG_CHAT }}
+        run: node check.mjs
+
+      - name: Persist snapshot
+        run: |
+          git config user.name "slunks-watch[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add snapshot.json
+          git commit -m "snapshot $(date -u +%FT%TZ)" || exit 0
+          git push
