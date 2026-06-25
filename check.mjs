@@ -5,6 +5,25 @@ const STORE = "https://slunksmarket.com";
 const COLLECTION = "all-products"; // watch this collection; "" = whole store
 const SNAPSHOT = new URL("./snapshot.json", import.meta.url);
 
+// Only run during these hours, America/Los_Angeles (DST-aware). 9 = 9am, 21 = 9pm.
+const WINDOW = { start: 9, end: 21, tz: "America/Los_Angeles" };
+
+// current hour (0-23) in a timezone
+export function hourIn(tz, date = new Date()) {
+  return Number(
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: tz,
+      hour: "2-digit",
+      hour12: false,
+    }).format(date),
+  ) % 24; // "24" midnight edge -> 0
+}
+
+// inclusive of start, exclusive of end: [start, end)
+export function inWindow(hour, w = WINDOW) {
+  return hour >= w.start && hour < w.end;
+}
+
 // Which changes to alert on:
 const ALERT = {
   new: true,
@@ -153,6 +172,12 @@ function writeSnapshot(items) {
 
 // --- main ---
 async function main() {
+  const hour = hourIn(WINDOW.tz);
+  if (process.env.FORCE !== "1" && !inWindow(hour)) {
+    console.log(`outside window (${hour}:00 ${WINDOW.tz}, active ${WINDOW.start}-${WINDOW.end}) — skip`);
+    return;
+  }
+
   const cur = await fetchAll();
   const count = Object.keys(cur).length;
   console.log(`fetched ${count} products`);

@@ -8,6 +8,8 @@ import {
   fetchPage,
   fetchAll,
   serializeSnapshot,
+  inWindow,
+  hourIn,
 } from "./check.mjs";
 
 const item = (o = {}) => ({
@@ -162,6 +164,27 @@ test("serializeSnapshot: deterministic regardless of key insertion order", () =>
   const a = serializeSnapshot({ 2: item(), 1: item(), 10: item() });
   const b = serializeSnapshot({ 10: item(), 1: item(), 2: item() });
   assert.equal(a, b); // => unchanged catalog yields identical file => no git noise
+});
+
+// ---------- window gate ----------
+test("inWindow: boundaries [9,21)", () => {
+  const w = { start: 9, end: 21 };
+  assert.equal(inWindow(8, w), false); // before
+  assert.equal(inWindow(9, w), true); // start inclusive
+  assert.equal(inWindow(15, w), true); // middle
+  assert.equal(inWindow(20, w), true); // last active hour
+  assert.equal(inWindow(21, w), false); // end exclusive
+  assert.equal(inWindow(0, w), false); // midnight
+  assert.equal(inWindow(23, w), false);
+});
+
+test("hourIn: returns LA hour 0-23, DST-aware", () => {
+  // 2026-06-25 20:00 UTC == 13:00 PDT (UTC-7, summer)
+  assert.equal(hourIn("America/Los_Angeles", new Date("2026-06-25T20:00:00Z")), 13);
+  // 2026-01-15 20:00 UTC == 12:00 PST (UTC-8, winter) — proves DST handled
+  assert.equal(hourIn("America/Los_Angeles", new Date("2026-01-15T20:00:00Z")), 12);
+  // midnight edge: 07:00 UTC summer == 00:00 PDT -> 0, not 24
+  assert.equal(hourIn("America/Los_Angeles", new Date("2026-06-25T07:00:00Z")), 0);
 });
 
 // ---------- fetchPage retry ----------

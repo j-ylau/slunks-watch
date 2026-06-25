@@ -2,8 +2,11 @@ name: slunks-watch
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # every 15 min (GitHub may lag a few min)
-  workflow_dispatch: {} # manual run button
+    # every 15 min, but only the UTC hours that cover ~9am-9pm America/Los_Angeles
+    # across both PST (UTC-8) and PDT (UTC-7). check.mjs does the exact LA-time gate.
+    - cron: "*/15 16-23 * * *" # 16:00-23:59 UTC
+    - cron: "*/15 0-5 * * *" #  00:00-05:59 UTC
+  workflow_dispatch: {} # manual run button (always runs; set FORCE to bypass window)
 
 # allow the job to push snapshot.json back to the repo
 permissions:
@@ -26,6 +29,8 @@ jobs:
       - name: Check catalog
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          # manual runs bypass the time window; scheduled runs respect it
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: node check.mjs
 
       - name: Persist snapshot
