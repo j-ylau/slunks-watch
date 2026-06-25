@@ -10,6 +10,8 @@ on:
     - cron: "*/5 16-23 * * *" # 16:00-23:59 UTC
     - cron: "*/5 0-5 * * *" #  00:00-05:59 UTC
   workflow_dispatch: {} # manual run button (always runs; set FORCE to bypass window)
+  repository_dispatch:
+    types: [poll] # external pinger (cron-job.org) -> reliable triggering, respects window
 
 # allow the job to push snapshot.json back to the repo
 permissions:
