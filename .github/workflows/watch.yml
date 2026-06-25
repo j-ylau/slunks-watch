@@ -2,12 +2,13 @@ name: slunks-watch
 
 on:
   schedule:
-    # check every 15 min, but only the UTC hours that cover ~9am-9pm
+    # check every 5 min, but only the UTC hours that cover ~9am-9pm
     # America/Los_Angeles across both PST (UTC-8) and PDT (UTC-7).
     # check.mjs does the exact LA-time gate. This is the *check* cadence —
     # you are only notified when a product actually changes, not every run.
-    - cron: "*/15 16-23 * * *" # 16:00-23:59 UTC
-    - cron: "*/15 0-5 * * *" #  00:00-05:59 UTC
+    # 5m = catch sudden/random drops fast; still silent unless something changes.
+    - cron: "*/5 16-23 * * *" # 16:00-23:59 UTC
+    - cron: "*/5 0-5 * * *" #  00:00-05:59 UTC
   workflow_dispatch: {} # manual run button (always runs; set FORCE to bypass window)
 
 # allow the job to push snapshot.json back to the repo
