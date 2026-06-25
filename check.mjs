@@ -19,6 +19,30 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 const NTFY_SERVER = process.env.NTFY_SERVER || "https://ntfy.sh";
 const NTFY_TOPIC = process.env.NTFY_TOPIC;
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// fetch one page, retrying transient errors (503/429/network) with backoff
+async function fetchPage(url) {
+  let lastErr;
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    try {
+      const res = await fetch(url, {
+        headers: { "user-agent": "slunks-watch/1.0" },
+      });
+      if (res.ok) return res.json();
+      if (res.status === 503 || res.status === 429 || res.status >= 500) {
+        lastErr = new Error(`${res.status}`);
+      } else {
+        throw new Error(`${url}: ${res.status}`); // 4xx = real, don't retry
+      }
+    } catch (e) {
+      lastErr = e;
+    }
+    if (attempt < 4) await sleep(attempt * 2000); // 2s, 4s, 6s
+  }
+  throw new Error(`fetch failed after retries: ${url} (${lastErr?.message})`);
+}
+
 // --- fetch every product across all pages ---
 async function fetchAll() {
   const base = COLLECTION
@@ -26,11 +50,7 @@ async function fetchAll() {
     : `${STORE}/products.json`;
   const items = {};
   for (let page = 1; page <= 20; page++) {
-    const res = await fetch(`${base}?limit=250&page=${page}`, {
-      headers: { "user-agent": "slunks-watch/1.0" },
-    });
-    if (!res.ok) throw new Error(`fetch page ${page}: ${res.status}`);
-    const { products } = await res.json();
+    const { products } = await fetchPage(`${base}?limit=250&page=${page}`);
     if (!products.length) break;
     for (const p of products) {
       const prices = p.variants.map((v) => parseFloat(v.price));
