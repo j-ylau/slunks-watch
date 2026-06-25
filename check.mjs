@@ -21,52 +21,56 @@ const NTFY_TOPIC = process.env.NTFY_TOPIC;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// map a Shopify product to our tracked shape
+export function toItem(p) {
+  const prices = p.variants.map((v) => parseFloat(v.price)).filter((n) => !isNaN(n));
+  return {
+    title: p.title,
+    handle: p.handle,
+    price: prices.length ? Math.min(...prices) : null,
+    available: p.variants.some((v) => v.available),
+  };
+}
+
 // fetch one page, retrying transient errors (503/429/network) with backoff
-async function fetchPage(url) {
+export async function fetchPage(url, { tries = 4, baseDelay = 2000 } = {}) {
   let lastErr;
-  for (let attempt = 1; attempt <= 4; attempt++) {
+  for (let attempt = 1; attempt <= tries; attempt++) {
+    let res;
     try {
-      const res = await fetch(url, {
-        headers: { "user-agent": "slunks-watch/1.0" },
-      });
-      if (res.ok) return res.json();
-      if (res.status === 503 || res.status === 429 || res.status >= 500) {
-        lastErr = new Error(`${res.status}`);
-      } else {
-        throw new Error(`${url}: ${res.status}`); // 4xx = real, don't retry
-      }
+      res = await fetch(url, { headers: { "user-agent": "slunks-watch/1.0" } });
     } catch (e) {
-      lastErr = e;
+      lastErr = e; // network/DNS error -> transient, retry
+      if (attempt < tries) await sleep(attempt * baseDelay);
+      continue;
     }
-    if (attempt < 4) await sleep(attempt * 2000); // 2s, 4s, 6s
+    if (res.ok) return res.json();
+    if (res.status === 429 || res.status >= 500) {
+      lastErr = new Error(`${res.status}`); // transient -> retry
+      if (attempt < tries) await sleep(attempt * baseDelay); // 2s, 4s, 6s
+      continue;
+    }
+    throw new Error(`${url}: ${res.status}`); // 4xx = real, fail fast
   }
   throw new Error(`fetch failed after retries: ${url} (${lastErr?.message})`);
 }
 
 // --- fetch every product across all pages ---
-async function fetchAll() {
+export async function fetchAll(opts) {
   const base = COLLECTION
     ? `${STORE}/collections/${COLLECTION}/products.json`
     : `${STORE}/products.json`;
   const items = {};
   for (let page = 1; page <= 20; page++) {
-    const { products } = await fetchPage(`${base}?limit=250&page=${page}`);
+    const { products } = await fetchPage(`${base}?limit=250&page=${page}`, opts);
     if (!products.length) break;
-    for (const p of products) {
-      const prices = p.variants.map((v) => parseFloat(v.price));
-      items[p.id] = {
-        title: p.title,
-        handle: p.handle,
-        price: Math.min(...prices),
-        available: p.variants.some((v) => v.available),
-      };
-    }
+    for (const p of products) items[p.id] = toItem(p);
   }
   return items;
 }
 
 // --- diff prev vs cur ---
-function diff(prev, cur) {
+export function diff(prev, cur) {
   const added = [],
     removed = [],
     restocked = [],
@@ -90,25 +94,29 @@ function diff(prev, cur) {
 // --- format (plain text; product titles start with "#") ---
 const money = (n) => `$${n.toFixed(2)}`;
 
-function buildMessage(d) {
+export function changeCount(d) {
+  return d.added.length + d.removed.length + d.restocked.length + d.oos.length + d.priced.length;
+}
+
+export function buildMessage(d, alert = ALERT) {
   const lines = [];
-  if (ALERT.new && d.added.length) {
+  if (alert.new && d.added.length) {
     lines.push(`\u{1F195} NEW (${d.added.length})`);
     for (const it of d.added) lines.push(`  ${it.title} — ${money(it.price)}`);
   }
-  if (ALERT.delisted && d.removed.length) {
+  if (alert.delisted && d.removed.length) {
     lines.push(`❌ DELISTED (${d.removed.length})`);
     for (const it of d.removed) lines.push(`  ${it.title}`);
   }
-  if (ALERT.restock && d.restocked.length) {
+  if (alert.restock && d.restocked.length) {
     lines.push(`✅ BACK IN STOCK (${d.restocked.length})`);
     for (const it of d.restocked) lines.push(`  ${it.title} — ${money(it.price)}`);
   }
-  if (ALERT.oos && d.oos.length) {
+  if (alert.oos && d.oos.length) {
     lines.push(`⚪ SOLD OUT (${d.oos.length})`);
     for (const it of d.oos) lines.push(`  ${it.title}`);
   }
-  if (ALERT.price && d.priced.length) {
+  if (alert.price && d.priced.length) {
     lines.push(`\u{1F4B0} PRICE (${d.priced.length})`);
     for (const it of d.priced)
       lines.push(`  ${it.title}  ${money(it.was)} → ${money(it.price)}`);
@@ -134,33 +142,41 @@ async function notify(text, title = "SlunksMarket update") {
 }
 
 // stable JSON so unchanged catalog => identical file => no git commit
-function writeSnapshot(items) {
+export function serializeSnapshot(items) {
   const sorted = {};
   for (const id of Object.keys(items).sort()) sorted[id] = items[id];
-  writeFileSync(SNAPSHOT, JSON.stringify(sorted, null, 2) + "\n");
+  return JSON.stringify(sorted, null, 2) + "\n";
+}
+function writeSnapshot(items) {
+  writeFileSync(SNAPSHOT, serializeSnapshot(items));
 }
 
 // --- main ---
-const cur = await fetchAll();
-const count = Object.keys(cur).length;
-console.log(`fetched ${count} products`);
+async function main() {
+  const cur = await fetchAll();
+  const count = Object.keys(cur).length;
+  console.log(`fetched ${count} products`);
 
-if (!existsSync(SNAPSHOT)) {
+  if (!existsSync(SNAPSHOT)) {
+    writeSnapshot(cur);
+    await notify(`\u{1F440} Watching SlunksMarket — ${count} products baselined.`, "slunks-watch started");
+    console.log("baseline written");
+    return;
+  }
+
+  const prev = JSON.parse(readFileSync(SNAPSHOT, "utf8"));
+  const d = diff(prev, cur);
+  const total = changeCount(d);
+
+  if (total === 0) {
+    console.log("no changes");
+  } else {
+    console.log(`changes: ${total}`);
+    await notify(buildMessage(d));
+  }
   writeSnapshot(cur);
-  await notify(`\u{1F440} Watching SlunksMarket — ${count} products baselined.`, "slunks-watch started");
-  console.log("baseline written");
-  process.exit(0);
 }
 
-const prev = JSON.parse(readFileSync(SNAPSHOT, "utf8"));
-const d = diff(prev, cur);
-const total =
-  d.added.length + d.removed.length + d.restocked.length + d.oos.length + d.priced.length;
-
-if (total === 0) {
-  console.log("no changes");
-} else {
-  console.log(`changes: ${total}`);
-  await notify(buildMessage(d));
-}
-writeSnapshot(cur);
+// only run when executed directly, not when imported by tests
+const isMain = process.argv[1] && import.meta.url === `file://${process.argv[1]}`;
+if (isMain) await main();

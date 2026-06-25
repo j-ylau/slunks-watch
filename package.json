@@ -1,0 +1,11 @@
+{
+  "name": "slunks-watch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Polls SlunksMarket catalog and pushes ntfy alerts on product changes.",
+  "type": "module",
+  "scripts": {
+    "check": "node check.mjs",
+    "test": "node --test"
+  }
+}
