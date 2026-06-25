@@ -25,8 +25,7 @@ jobs:
 
       - name: Check catalog
         env:
-          TG_TOKEN: ${{ secrets.TG_TOKEN }}
-          TG_CHAT: ${{ secrets.TG_CHAT }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: node check.mjs
 
       - name: Persist snapshot

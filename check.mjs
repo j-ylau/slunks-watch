@@ -16,8 +16,8 @@ const ALERT = {
 
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 
-const TG_TOKEN = process.env.TG_TOKEN;
-const TG_CHAT = process.env.TG_CHAT;
+const NTFY_SERVER = process.env.NTFY_SERVER || "https://ntfy.sh";
+const NTFY_TOPIC = process.env.NTFY_TOPIC;
 
 // --- fetch every product across all pages ---
 async function fetchAll() {
@@ -67,55 +67,50 @@ function diff(prev, cur) {
   return { added, removed, restocked, oos, priced };
 }
 
-// --- format ---
-const esc = (s) =>
-  String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-const link = (it) =>
-  `<a href="${STORE}/products/${it.handle}">${esc(it.title)}</a>`;
+// --- format (plain text; product titles start with "#") ---
 const money = (n) => `$${n.toFixed(2)}`;
 
 function buildMessage(d) {
   const lines = [];
   if (ALERT.new && d.added.length) {
-    lines.push(`\u{1F195} <b>NEW (${d.added.length})</b>`);
-    for (const it of d.added) lines.push(`  ${link(it)} — ${money(it.price)}`);
+    lines.push(`\u{1F195} NEW (${d.added.length})`);
+    for (const it of d.added) lines.push(`  ${it.title} — ${money(it.price)}`);
   }
   if (ALERT.delisted && d.removed.length) {
-    lines.push(`❌ <b>DELISTED (${d.removed.length})</b>`);
-    for (const it of d.removed) lines.push(`  ${esc(it.title)}`);
+    lines.push(`❌ DELISTED (${d.removed.length})`);
+    for (const it of d.removed) lines.push(`  ${it.title}`);
   }
   if (ALERT.restock && d.restocked.length) {
-    lines.push(`✅ <b>BACK IN STOCK (${d.restocked.length})</b>`);
-    for (const it of d.restocked) lines.push(`  ${link(it)} — ${money(it.price)}`);
+    lines.push(`✅ BACK IN STOCK (${d.restocked.length})`);
+    for (const it of d.restocked) lines.push(`  ${it.title} — ${money(it.price)}`);
   }
   if (ALERT.oos && d.oos.length) {
-    lines.push(`⚪ <b>SOLD OUT (${d.oos.length})</b>`);
-    for (const it of d.oos) lines.push(`  ${esc(it.title)}`);
+    lines.push(`⚪ SOLD OUT (${d.oos.length})`);
+    for (const it of d.oos) lines.push(`  ${it.title}`);
   }
   if (ALERT.price && d.priced.length) {
-    lines.push(`\u{1F4B0} <b>PRICE (${d.priced.length})</b>`);
+    lines.push(`\u{1F4B0} PRICE (${d.priced.length})`);
     for (const it of d.priced)
-      lines.push(`  ${link(it)}  ${money(it.was)} → ${money(it.price)}`);
+      lines.push(`  ${it.title}  ${money(it.was)} → ${money(it.price)}`);
   }
   return lines.join("\n");
 }
 
-async function sendTelegram(text) {
-  if (!TG_TOKEN || !TG_CHAT) {
-    console.log("[no telegram creds — would send]:\n" + text);
+async function notify(text, title = "SlunksMarket update") {
+  if (!NTFY_TOPIC) {
+    console.log("[no ntfy topic — would send]:\n" + text);
     return;
   }
-  const res = await fetch(`https://api.telegram.org/bot${TG_TOKEN}/sendMessage`, {
+  const res = await fetch(`${NTFY_SERVER}/${NTFY_TOPIC}`, {
     method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({
-      chat_id: TG_CHAT,
-      text,
-      parse_mode: "HTML",
-      disable_web_page_preview: true,
-    }),
+    headers: {
+      Title: title,
+      Tags: "shopping_cart",
+      Click: `${STORE}/collections/${COLLECTION || "all"}`,
+    },
+    body: text,
   });
-  if (!res.ok) throw new Error(`telegram: ${res.status} ${await res.text()}`);
+  if (!res.ok) throw new Error(`ntfy: ${res.status} ${await res.text()}`);
 }
 
 // stable JSON so unchanged catalog => identical file => no git commit
@@ -132,7 +127,7 @@ console.log(`fetched ${count} products`);
 
 if (!existsSync(SNAPSHOT)) {
   writeSnapshot(cur);
-  await sendTelegram(`\u{1F440} Watching SlunksMarket — ${count} products baselined.`);
+  await notify(`\u{1F440} Watching SlunksMarket — ${count} products baselined.`, "slunks-watch started");
   console.log("baseline written");
   process.exit(0);
 }
@@ -146,6 +141,6 @@ if (total === 0) {
   console.log("no changes");
 } else {
   console.log(`changes: ${total}`);
-  await sendTelegram(buildMessage(d));
+  await notify(buildMessage(d));
 }
 writeSnapshot(cur);
