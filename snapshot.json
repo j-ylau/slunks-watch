@@ -155,12 +155,6 @@
     "price": 104.99,
     "available": true
   },
-  "10022507118914": {
-    "title": "#CHINESE NEW YEAR OG",
-    "handle": "chinese-new-year-og",
-    "price": 264.99,
-    "available": true
-  },
   "10022507839810": {
     "title": "#COCO BEACH NEO PALMS",
     "handle": "coco-beach-neo-palms",
@@ -213,12 +207,6 @@
     "title": "#LUAU EXCLUSIVE CHEEHOO",
     "handle": "cheehoo",
     "price": 159.99,
-    "available": true
-  },
-  "10083018473794": {
-    "title": "#YORKTOWNE 2025 WHITE",
-    "handle": "yorktowne-2025-white",
-    "price": 109.99,
     "available": true
   },
   "10088848097602": {
@@ -647,24 +635,6 @@
     "price": 109.99,
     "available": true
   },
-  "10368189858114": {
-    "title": "#UNLV REBELS",
-    "handle": "unlv-rebels",
-    "price": 159.99,
-    "available": true
-  },
-  "10368190480706": {
-    "title": "#SLUNKTORIA 2025",
-    "handle": "slunktoria-2025",
-    "price": 159.99,
-    "available": true
-  },
-  "10368191529282": {
-    "title": "#OCVC PUERTO RICO",
-    "handle": "ocvc-puerto-rico",
-    "price": 249.99,
-    "available": true
-  },
   "10382143324482": {
     "title": "#EL MODENAS",
     "handle": "el-modenas",
@@ -803,12 +773,6 @@
     "price": 114.99,
     "available": true
   },
-  "8996353147202": {
-    "title": "#FLIGHT SCHOOL CHASE FRISHMAN",
-    "handle": "flight-school",
-    "price": 89.99,
-    "available": true
-  },
   "8996366156098": {
     "title": "#BAD BOYS MAKAPU'U",
     "handle": "bad-boys-makapu-u",
@@ -873,12 +837,6 @@
     "title": "#COAST SKYLINE",
     "handle": "coast-skyline",
     "price": 109.99,
-    "available": true
-  },
-  "9060733485378": {
-    "title": "#MVNU COUGARS",
-    "handle": "mvnu-slunks",
-    "price": 114.99,
     "available": true
   },
   "9062644678978": {
@@ -963,12 +921,6 @@
     "title": "#AVB NETWORK",
     "handle": "avb-network",
     "price": 119.99,
-    "available": true
-  },
-  "9319804698946": {
-    "title": "#KOLLER CLASSIC",
-    "handle": "koller-classic",
-    "price": 84.99,
     "available": true
   },
   "9431324295490": {
@@ -1223,12 +1175,6 @@
     "price": 134.99,
     "available": true
   },
-  "9815939481922": {
-    "title": "#WARWICK WARRIORS",
-    "handle": "warwick-warriors",
-    "price": 114.99,
-    "available": true
-  },
   "9824068337986": {
     "title": "#COLORADO SHARKS",
     "handle": "colorado-sharks",
@@ -1277,12 +1223,6 @@
     "price": 129.99,
     "available": true
   },
-  "9861317984578": {
-    "title": "#PREVAIL SPECKALED",
-    "handle": "prevail-speckaled",
-    "price": 99.99,
-    "available": true
-  },
   "9863477395778": {
     "title": "#NINE TAILS V1 FOX CUSTOMS",
     "handle": "ninetails",
@@ -1305,12 +1245,6 @@
     "title": "#WPVC HURRICANES",
     "handle": "wpvc-hurricanes",
     "price": 94.99,
-    "available": true
-  },
-  "9895253639490": {
-    "title": "#NIAGARA FRONTIER",
-    "handle": "niagara-frontier",
-    "price": 79.99,
     "available": true
   },
   "9895253901634": {
