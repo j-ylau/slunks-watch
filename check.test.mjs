@@ -8,6 +8,7 @@ import {
   fetchPage,
   fetchAll,
   serializeSnapshot,
+  sizeLine,
   inWindow,
   hourIn,
 } from "./check.mjs";
@@ -30,7 +31,35 @@ test("toItem: min price across variants, available if any variant available", ()
       { price: "149.99", available: true },
     ],
   });
-  assert.deepEqual(it, { title: "#A", handle: "a", price: 149.99, available: true });
+  assert.deepEqual(it, {
+    title: "#A",
+    handle: "a",
+    price: 149.99,
+    available: true,
+    image: null,
+    sizes: [],
+  });
+});
+
+test("toItem: captures first image url and in-stock variant titles as sizes", () => {
+  const it = toItem({
+    title: "#A",
+    handle: "a",
+    images: [{ src: "https://cdn.example/a.jpg" }, { src: "https://cdn.example/b.jpg" }],
+    variants: [
+      { title: "S", price: "100", available: true },
+      { title: "M", price: "100", available: false },
+      { title: "XL", price: "100", available: true },
+    ],
+  });
+  assert.equal(it.image, "https://cdn.example/a.jpg");
+  assert.deepEqual(it.sizes, ["S", "XL"]); // sold-out M excluded
+});
+
+test("sizeLine: joins sizes, falls back when none in stock", () => {
+  assert.equal(sizeLine({ sizes: ["S", "XL"] }), "Sizes in stock: S, XL");
+  assert.equal(sizeLine({ sizes: [] }), "No sizes in stock");
+  assert.equal(sizeLine({}), "No sizes in stock"); // old snapshots lack the field
 });
 
 test("toItem: all sold out => available false", () => {

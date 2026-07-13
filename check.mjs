@@ -1,5 +1,7 @@
 // Slunks watcher — polls slunksmarket.com product catalog, diffs against
-// snapshot.json, sends a Telegram message on changes. No deps, Node 18+.
+// snapshot.json, sends ntfy notifications on changes. New/restocked products
+// get their own notification with product photo and in-stock sizes; other
+// changes are batched into one summary. No deps, Node 18+.
 
 const STORE = "https://slunksmarket.com";
 const COLLECTION = "all-products"; // watch this collection; "" = whole store
@@ -48,6 +50,9 @@ export function toItem(p) {
     handle: p.handle,
     price: prices.length ? Math.min(...prices) : null,
     available: p.variants.some((v) => v.available),
+    image: p.images?.[0]?.src ?? null,
+    // variant title = size on this store; only the ones currently in stock
+    sizes: p.variants.filter((v) => v.available).map((v) => v.title).filter(Boolean),
   };
 }
 
@@ -143,21 +148,47 @@ export function buildMessage(d, alert = ALERT) {
   return lines.join("\n");
 }
 
-async function notify(text, title = "SlunksMarket update") {
+async function notify(text, opts = {}) {
+  const {
+    title = "SlunksMarket update",
+    tags = "shopping_cart",
+    click = `${STORE}/collections/${COLLECTION || "all"}`,
+    attach,
+  } = opts;
   if (!NTFY_TOPIC) {
-    console.log("[no ntfy topic — would send]:\n" + text);
+    console.log(`[no ntfy topic — would send]: ${title}${attach ? ` [img: ${attach}]` : ""}\n${text}`);
     return;
   }
+  // HTTP headers are latin-1 only; strip anything else from the title
+  const headers = {
+    Title: title.replace(/[^\x20-\x7E]/g, "").trim(),
+    Tags: tags,
+    Click: click,
+  };
+  if (attach) headers.Attach = attach;
   const res = await fetch(`${NTFY_SERVER}/${NTFY_TOPIC}`, {
     method: "POST",
-    headers: {
-      Title: title,
-      Tags: "shopping_cart",
-      Click: `${STORE}/collections/${COLLECTION || "all"}`,
-    },
+    headers,
     body: text,
   });
   if (!res.ok) throw new Error(`ntfy: ${res.status} ${await res.text()}`);
+}
+
+export const sizeLine = (it) =>
+  it.sizes?.length ? `Sizes in stock: ${it.sizes.join(", ")}` : "No sizes in stock";
+
+// one notification per product so ntfy renders its photo
+async function notifyProduct(it, kind) {
+  const meta = {
+    new: { label: "New", tags: "new,shopping_cart" },
+    restock: { label: "Back in stock", tags: "white_check_mark,shopping_cart" },
+  }[kind];
+  await notify(`${it.price == null ? "price n/a" : money(it.price)}\n${sizeLine(it)}`, {
+    title: `${meta.label}: ${it.title}`,
+    tags: meta.tags,
+    click: `${STORE}/products/${it.handle}`,
+    attach: it.image || undefined,
+  });
 }
 
 // stable JSON so unchanged catalog => identical file => no git commit
@@ -184,7 +215,9 @@ async function main() {
 
   if (!existsSync(SNAPSHOT)) {
     writeSnapshot(cur);
-    await notify(`\u{1F440} Watching SlunksMarket — ${count} products baselined.`, "slunks-watch started");
+    await notify(`\u{1F440} Watching SlunksMarket — ${count} products baselined.`, {
+      title: "slunks-watch started",
+    });
     console.log("baseline written");
     return;
   }
@@ -197,7 +230,21 @@ async function main() {
     console.log("no changes");
   } else {
     console.log(`changes: ${total}`);
-    await notify(buildMessage(d));
+    if (ALERT.new) {
+      for (const it of d.added) {
+        await notifyProduct(it, "new");
+        await sleep(500);
+      }
+    }
+    if (ALERT.restock) {
+      for (const it of d.restocked) {
+        await notifyProduct(it, "restock");
+        await sleep(500);
+      }
+    }
+    // remaining change types (delisted / sold out / price) as one summary
+    const summary = buildMessage({ ...d, added: [], restocked: [] });
+    if (summary) await notify(summary);
   }
   writeSnapshot(cur);
 }
