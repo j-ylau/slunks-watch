@@ -281,6 +281,12 @@
     "price": 164.99,
     "available": true
   },
+  "10217877569858": {
+    "title": "#WECVB VOLCANOE",
+    "handle": "wecvb-volcanoe",
+    "price": 164.99,
+    "available": true
+  },
   "10217961521474": {
     "title": "#SOUTHWEST BOYS CLASSIC",
     "handle": "southwest-boys-classic",
@@ -339,12 +345,6 @@
     "title": "#SUNSET VOLLEYBALL CLUB",
     "handle": "copy-ncvf-customs",
     "price": 84.99,
-    "available": true
-  },
-  "10225703223618": {
-    "title": "#OOS LUAU",
-    "handle": "copy-ncvf-customs-1",
-    "price": 174.99,
     "available": true
   },
   "10225708532034": {
