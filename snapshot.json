@@ -383,6 +383,12 @@
     "price": 109.99,
     "available": true
   },
+  "10240925139266": {
+    "title": "#SOARING DRAGONS",
+    "handle": "soaring-dragons",
+    "price": 199.99,
+    "available": true
+  },
   "10250967712066": {
     "title": "#TEAM COLORADO BLACK SLUNKS MARKET CUSTOM",
     "handle": "copy-glacier-wolf-slunks-market-custom-pre-order-1",
@@ -621,6 +627,12 @@
     "title": "#OCVC SCUBAS",
     "handle": "ocvc-scubas",
     "price": 154.99,
+    "available": true
+  },
+  "9000793768258": {
+    "title": "#SEASIDES V2",
+    "handle": "seaside-v2",
+    "price": 104.99,
     "available": true
   },
   "9004715770178": {
