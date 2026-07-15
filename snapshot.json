@@ -62,16 +62,6 @@
       "M"
     ]
   },
-  "10020074160450": {
-    "title": "#IMUA BLUE BUTTERFLY",
-    "handle": "imua-blue-butterfly",
-    "price": 159.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_45.jpg?v=1770925240",
-    "sizes": [
-      "M"
-    ]
-  },
   "10020074586434": {
     "title": "#ST. LOUIS ARCH",
     "handle": "st-louis-arch",
@@ -113,16 +103,6 @@
       "M"
     ]
   },
-  "10020080058690": {
-    "title": "#NEB SAMBA",
-    "handle": "neb-brazil",
-    "price": 349.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_57.jpg?v=1770925656",
-    "sizes": [
-      "M"
-    ]
-  },
   "10020081828162": {
     "title": "#NEB “BEST DAY EVER”",
     "handle": "neb-best-day-ever",
@@ -132,16 +112,6 @@
     "sizes": [
       "M",
       "L"
-    ]
-  },
-  "10020082942274": {
-    "title": "#B-LEAGUE",
-    "handle": "b-league",
-    "price": 114.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/1B626BA5-FBFD-4885-9F17-1839E499B4BE.jpg?v=1769131186",
-    "sizes": [
-      "S"
     ]
   },
   "10020091691330": {
@@ -154,27 +124,6 @@
       "M"
     ]
   },
-  "10020110238018": {
-    "title": "#NEB JUNGLE CAT",
-    "handle": "neb-jungle-cat",
-    "price": 269.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_11.jpg?v=1770923554",
-    "sizes": [
-      "S",
-      "M"
-    ]
-  },
-  "10020111679810": {
-    "title": "#NORCAL BLACK",
-    "handle": "norcal-black",
-    "price": 79.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_53.jpg?v=1770925519",
-    "sizes": [
-      "L"
-    ]
-  },
   "10020111843650": {
     "title": "#COAST BLUE 2025",
     "handle": "coast-blue-2025",
@@ -183,26 +132,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9BF9F9E9-E643-4238-854D-670A0D64F3A8.jpg?v=1769127952",
     "sizes": [
       "M"
-    ]
-  },
-  "10020116726082": {
-    "title": "#EARTH DAY V3",
-    "handle": "earth-day-2026",
-    "price": 119.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6EEC4525-72A5-45F8-AB0A-A31618E36A0C.jpg?v=1769131186",
-    "sizes": [
-      "L"
-    ]
-  },
-  "10020117545282": {
-    "title": "#LONG BEACH EXCLUSIVE",
-    "handle": "long-beach",
-    "price": 219.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_13.jpg?v=1770923642",
-    "sizes": [
-      "S"
     ]
   },
   "10022477922626": {
@@ -226,19 +155,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F6C10F8B-5574-45AC-9D25-9984A4F7B930.jpg?v=1763608012",
     "sizes": [
-      "S",
       "L"
-    ]
-  },
-  "10022508757314": {
-    "title": "#LACO MOTTO V2 EARTH",
-    "handle": "laco-motto-v2-earth",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/952B1A5B-CBF6-4050-AC31-627A8497E4DE.jpg?v=1763618628",
-    "sizes": [
-      "S",
-      "M"
     ]
   },
   "10023905820994": {
@@ -341,42 +258,12 @@
       "M"
     ]
   },
-  "10141659464002": {
-    "title": "#LACO BUNNIES FOR DAYS",
-    "handle": "laco-bunnies-for-days-slunks",
-    "price": 129.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-0968.jpg?v=1762995433",
-    "sizes": [
-      "M"
-    ]
-  },
-  "10146702557506": {
-    "title": "#FULL SEND CAMO",
-    "handle": "full-send-camo",
-    "price": 99.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/7168C0A7-5B69-4F82-8A9E-3DA811734C0A.jpg?v=1763520398",
-    "sizes": [
-      "L"
-    ]
-  },
   "10146704490818": {
     "title": "#NVNL 9 MAN CUSTOMS",
     "handle": "nvnl-customs",
     "price": 124.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5D0395EA-4234-45A0-8E9E-3CBFF4EDB1C0.jpg?v=1766545706",
-    "sizes": [
-      "M"
-    ]
-  },
-  "10146705867074": {
-    "title": "#LUCENA REEFS",
-    "handle": "lucena-reefs",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9077B51A-DBC7-4D2B-9043-B9D6645F4F76.jpg?v=1763520398",
     "sizes": [
       "M"
     ]
@@ -422,18 +309,7 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BE6E1CB7-AA04-4B51-9B1A-54052575780A.jpg?v=1764560488",
     "sizes": [
       "S",
-      "M",
-      "L"
-    ]
-  },
-  "10169014223170": {
-    "title": "#HOTSHOT NEO TIKIS",
-    "handle": "hotshot-neo-tikis",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BD2FE094-3041-4542-8D99-77BB553C95B4.jpg?v=1764562876",
-    "sizes": [
-      "L"
+      "M"
     ]
   },
   "10169096143170": {
@@ -445,16 +321,6 @@
     "sizes": [
       "S",
       "XL"
-    ]
-  },
-  "10169252380994": {
-    "title": "#CORNELL UNIVERSITY",
-    "handle": "cornell-university",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/7F6E218C-E962-4FD8-8E0B-E4861EF28FEA.jpg?v=1764574235",
-    "sizes": [
-      "S"
     ]
   },
   "10169719980354": {
@@ -482,16 +348,6 @@
       "XL"
     ]
   },
-  "10191993897282": {
-    "title": "#KAIMANA FLOWERS",
-    "handle": "kaimana-flowers",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-1566.jpg?v=1766932368",
-    "sizes": [
-      "S"
-    ]
-  },
   "10192092102978": {
     "title": "#COLLEGIATE CLUB VOLLEYBALL LEAGUE",
     "handle": "ccvl",
@@ -500,16 +356,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8485146E-DCE2-4B83-B400-110539DC5F75.jpg?v=1766961714",
     "sizes": [
       "M"
-    ]
-  },
-  "10210356822338": {
-    "title": "#OG BLACK COAST",
-    "handle": "og-black-coast",
-    "price": 164.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_f910dfe6-6b48-4200-8c9e-36400268de02.png?v=1768354289",
-    "sizes": [
-      "S"
     ]
   },
   "10217877569858": {
@@ -528,16 +374,6 @@
     "price": 114.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9A7C87D7-D8B6-4C2D-94ED-130C4826AC98.jpg?v=1769126355",
-    "sizes": [
-      "M"
-    ]
-  },
-  "10224219554114": {
-    "title": "#PACE LOGO’S",
-    "handle": "copy-pace-florals",
-    "price": 69.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6EE49AEA-5C42-4829-BD4A-E172C2ADCEEC.jpg?v=1769644435",
     "sizes": [
       "M"
     ]
@@ -827,21 +663,9 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-0326.png?v=1692742166",
     "sizes": [
-      "S",
       "M",
       "L",
       "XL"
-    ]
-  },
-  "8628980875586": {
-    "title": "#OBV FLAMINGO",
-    "handle": "obv-flamingo",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/PhotoRoom-20230220-171505.jpg?v=1693344388",
-    "sizes": [
-      "M",
-      "L"
     ]
   },
   "8883840745794": {
@@ -855,26 +679,6 @@
       "L"
     ]
   },
-  "8958071079234": {
-    "title": "#MIAMI UNITED PIXELS",
-    "handle": "miami-pixel-slunks",
-    "price": 109.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B67FAA37-7AA7-45D9-A0D4-614DB6E214AE.jpg?v=1763955705",
-    "sizes": [
-      "S"
-    ]
-  },
-  "8980791296322": {
-    "title": "#HVA TRAVIS SCOTT: “WISH YOU WERE HERE",
-    "handle": "travis-scott-wish-you-were-here-slunks-1",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/02C3B5BB-99DB-45B3-96CC-357132244056.jpg?v=1736440656",
-    "sizes": [
-      "XXS"
-    ]
-  },
   "8980891074882": {
     "title": "#OBV ICE CREAMS",
     "handle": "obv-ice-cream-slunks-1",
@@ -883,16 +687,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/DCD4D041-AF30-4698-B719-B62B64131A35.jpg?v=1726695363",
     "sizes": [
       "M"
-    ]
-  },
-  "8982855352642": {
-    "title": "#AVP HUNTINGTONS V1",
-    "handle": "untitled-dec5_17-06",
-    "price": 199.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/47399A8D-6322-4302-A797-92E1AC17A227.jpg?v=1763598284",
-    "sizes": [
-      "XL"
     ]
   },
   "8982910796098": {
@@ -955,9 +749,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_b8867aaf-d141-4b37-ab60-dbfc62156e0c.jpg?v=1702407779",
     "sizes": [
-      "S",
-      "M",
-      "L"
+      "S"
     ]
   },
   "8996366156098": {
@@ -1000,16 +792,6 @@
       "M"
     ]
   },
-  "9004716589378": {
-    "title": "#OOS TRINITIES",
-    "handle": "oos-v3",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/08F578FA-BB03-4729-BAD8-D289190A8E1A.jpg?v=1725408029",
-    "sizes": [
-      "S"
-    ]
-  },
   "9015575019842": {
     "title": "#OCEAN BAY PALMS",
     "handle": "obv-palms",
@@ -1020,16 +802,6 @@
       "L"
     ]
   },
-  "9027779166530": {
-    "title": "#LUNAR DRAGONS",
-    "handle": "lunar-dragons",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_9.jpg?v=1770923475",
-    "sizes": [
-      "M"
-    ]
-  },
   "9034707042626": {
     "title": "#FUNGI PATCHES",
     "handle": "fungi-s-halloween",
@@ -1037,7 +809,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BF3D6EA0-B790-4EBD-B9F2-273A4922FE19.jpg?v=1770785233",
     "sizes": [
-      "S",
       "M"
     ]
   },
@@ -1058,8 +829,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/DF027CA8-8CE3-47F4-94AD-BA2C73C0FE39.jpg?v=1707406123",
     "sizes": [
-      "S",
-      "M",
       "L"
     ]
   },
@@ -1093,17 +862,6 @@
       "M"
     ]
   },
-  "9121238647106": {
-    "title": "#AVP MIAMI",
-    "handle": "avp-miami-s",
-    "price": 239.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CAD29CA1-9590-4D3B-8875-AAA803CDA746.jpg?v=1766541132",
-    "sizes": [
-      "XS",
-      "S"
-    ]
-  },
   "9121239368002": {
     "title": "#AVP NOLA",
     "handle": "avp-nola-s",
@@ -1122,16 +880,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EB6D48AF-252F-494A-B0BD-6B0ABCB74757.jpg?v=1764562876",
     "sizes": [
       "3XL"
-    ]
-  },
-  "9173822800194": {
-    "title": "#IMUA BLUE FLORAL",
-    "handle": "imua-blue-floral-1",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_31.jpg?v=1770924640",
-    "sizes": [
-      "XL"
     ]
   },
   "9178734920002": {
@@ -1234,16 +982,6 @@
       "L"
     ]
   },
-  "9630194401602": {
-    "title": "#ACADEMY INDIANAPOLIS",
-    "handle": "academy-indianapolis",
-    "price": 104.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C243980B-6A15-475E-AC47-5ECF3477B40D.jpg?v=1720885924",
-    "sizes": [
-      "M"
-    ]
-  },
   "9631209488706": {
     "title": "#OCVC GRAFFITI",
     "handle": "ocvc-graffiti",
@@ -1253,16 +991,6 @@
     "sizes": [
       "S",
       "XL"
-    ]
-  },
-  "9638352257346": {
-    "title": "#SAS COMPASS",
-    "handle": "sas-compass",
-    "price": 144.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2075DC59-224D-493C-8477-A9354C8894AE.jpg?v=1759988415",
-    "sizes": [
-      "M"
     ]
   },
   "9638356418882": {
@@ -1357,26 +1085,6 @@
       "L"
     ]
   },
-  "9697549713730": {
-    "title": "#DYNASTY V2",
-    "handle": "dynasty-v2",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FE877BA4-4BA2-466E-BCDC-96A9AD4D83A9.jpg?v=1724722979",
-    "sizes": [
-      "S"
-    ]
-  },
-  "9697552236866": {
-    "title": "#OCC SURFERS RED",
-    "handle": "red-occ-surfers",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5F6A6258-532B-4695-989A-4617831CC27E.jpg?v=1763668147",
-    "sizes": [
-      "M"
-    ]
-  },
   "9697552761154": {
     "title": "#UC ELITES",
     "handle": "uc-elites",
@@ -1394,8 +1102,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9879B5CC-F179-4621-BFBE-E64F00FD77C8.jpg?v=1725230615",
     "sizes": [
-      "S",
-      "M"
+      "S"
     ]
   },
   "9740857639234": {
@@ -1491,16 +1198,6 @@
       "XL"
     ]
   },
-  "9824068337986": {
-    "title": "#COLORADO SHARKS",
-    "handle": "colorado-sharks",
-    "price": 119.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/57389D7A-75EC-435C-B325-4C92BFB77DF1.jpg?v=1733324693",
-    "sizes": [
-      "L"
-    ]
-  },
   "9824069550402": {
     "title": "#SOCAL HIBISCUS",
     "handle": "socal-hibiscus",
@@ -1518,8 +1215,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/11C448B0-321C-4F57-BBAD-CD7145AC3550.jpg?v=1763952605",
     "sizes": [
-      "XS",
-      "M"
+      "XS"
     ]
   },
   "9836541509954": {
@@ -1562,26 +1258,6 @@
       "M"
     ]
   },
-  "9854395711810": {
-    "title": "#WPVC TIKIS WHITE",
-    "handle": "wpvc-tikis-white",
-    "price": 109.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0A3062BE-139B-48B7-B65D-4FD08D8F5107.png?v=1735843746",
-    "sizes": [
-      "M"
-    ]
-  },
-  "9887827394882": {
-    "title": "#SD BEACH BEIGE",
-    "handle": "ucsb-beige",
-    "price": 229.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/74453C67-E2BD-4437-BD8E-7AD43EE33472.jpg?v=1739480426",
-    "sizes": [
-      "L"
-    ]
-  },
   "9893835800898": {
     "title": "#KOI BLOSSOMS SLUNKS MARKET SPONSORED FUNDRAISER",
     "handle": "koi-blossoms-slunks-market-sponsored-fundraiser",
@@ -1611,7 +1287,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/941BC79E-C1A8-4CF1-8FA1-E060A8A45857.jpg?v=1742698002",
     "sizes": [
-      "M",
       "L"
     ]
   },
@@ -1689,16 +1364,6 @@
       "XL"
     ]
   },
-  "9962741989698": {
-    "title": "#ST. JAMES NAVY",
-    "handle": "st-james-navy",
-    "price": 89.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_63.jpg?v=1770925972",
-    "sizes": [
-      "S"
-    ]
-  },
   "9962742907202": {
     "title": "#ST. JUDE NAVY",
     "handle": "st-jude-navy",
@@ -1739,16 +1404,6 @@
       "S"
     ]
   },
-  "9962903798082": {
-    "title": "#PURE ALOHA V1",
-    "handle": "pure-aloha-v1",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C42E34DA-3F71-403A-800F-D4E39BBA1964.jpg?v=1747154315",
-    "sizes": [
-      "XL"
-    ]
-  },
   "9981390913858": {
     "title": "#OCC BLUE 25'",
     "handle": "occ-blue-2025",
@@ -1766,7 +1421,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C3DF4251-0BB7-4C71-9144-1DAB9D694809.jpg?v=1759988415",
     "sizes": [
-      "M",
       "L",
       "XL"
     ]
