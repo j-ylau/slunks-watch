@@ -102,16 +102,6 @@
       "M"
     ]
   },
-  "10020076388674": {
-    "title": "#CALIFORNIA VBC WHITE",
-    "handle": "california-vbc-white",
-    "price": 79.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_59.jpg?v=1770925830",
-    "sizes": [
-      "M"
-    ]
-  },
   "10020078649666": {
     "title": "#SAS 2025 BLUE",
     "handle": "sas-2025-blue",
@@ -1855,8 +1845,7 @@
     "sizes": [
       "S",
       "M",
-      "L",
-      "XL"
+      "L"
     ]
   },
   "9895250166082": {
@@ -1960,7 +1949,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/397465D0-BBB1-4AE1-8D10-7975504B65C3.jpg?v=1746506143",
     "sizes": [
-      "M",
       "L",
       "XL"
     ]
