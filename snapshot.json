@@ -427,6 +427,16 @@
       "S"
     ]
   },
+  "10225592041794": {
+    "title": "#OOS SPINS",
+    "handle": "copy-ob-feathers",
+    "price": 134.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FE322F8E-5553-4887-9A08-351FF392DD6A.jpg?v=1784157644",
+    "sizes": [
+      "XL"
+    ]
+  },
   "10225707548994": {
     "title": "#CHI LONG 9MAN",
     "handle": "copy-kyzen-white",
@@ -804,6 +814,16 @@
     "price": 139.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/219B1F83-5E8A-4653-ABEC-9ABCEDB44BEB.jpg?v=1784157696",
+    "sizes": [
+      "M"
+    ]
+  },
+  "10414781268290": {
+    "title": "#OCVC DONUTS V2",
+    "handle": "ocvc-donuts-v2",
+    "price": 154.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CE9DFA10-CB32-4A9C-BF56-379AAF75586D.jpg?v=1784157597",
     "sizes": [
       "M"
     ]
