@@ -624,6 +624,16 @@
       "S"
     ]
   },
+  "10414621098306": {
+    "title": "#ASPIRE COMICS",
+    "handle": "aspire-comics",
+    "price": 134.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EA054A03-1C3C-447C-B6FA-2BE6B2FEE83F.jpg?v=1784157696",
+    "sizes": [
+      "S"
+    ]
+  },
   "8152087396674": {
     "title": "#SANDSTORMS",
     "handle": "sandstorm-slunks",
@@ -807,6 +817,16 @@
     "price": 124.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9E456C21-7439-4DC2-836F-1868490EFE45.jpg?v=1726878883",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9006160249154": {
+    "title": "#BAD BOY PRIMOS BLACK",
+    "handle": "bad-boys-black",
+    "price": 129.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/40A41662-E8D4-41B3-BCAC-0B7788BA774B.jpg?v=1784157597",
     "sizes": [
       "M"
     ]
