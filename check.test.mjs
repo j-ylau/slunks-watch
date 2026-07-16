@@ -231,7 +231,7 @@ function stubFetch(seq) {
   };
   return () => i; // call count
 }
-const FAST = { baseDelay: 1 };
+const FAST = { baseDelay: 1, pageDelay: 1 };
 
 test("fetchPage: 200 returns json immediately", async () => {
   const calls = stubFetch([{ status: 200, body: { products: [1] } }]);

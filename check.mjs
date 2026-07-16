@@ -57,7 +57,7 @@ export function toItem(p) {
 }
 
 // fetch one page, retrying transient errors (503/429/network) with backoff
-export async function fetchPage(url, { tries = 4, baseDelay = 2000 } = {}) {
+export async function fetchPage(url, { tries = 5, baseDelay = 3000 } = {}) {
   let lastErr;
   for (let attempt = 1; attempt <= tries; attempt++) {
     let res;
@@ -81,11 +81,13 @@ export async function fetchPage(url, { tries = 4, baseDelay = 2000 } = {}) {
 
 // --- fetch every product across all pages ---
 export async function fetchAll(opts) {
+  const { pageDelay = 500 } = opts ?? {}; // pace requests so Shopify doesn't 503 the burst
   const base = COLLECTION
     ? `${STORE}/collections/${COLLECTION}/products.json`
     : `${STORE}/products.json`;
   const items = {};
   for (let page = 1; page <= 20; page++) {
+    if (page > 1) await sleep(pageDelay);
     const { products } = await fetchPage(`${base}?limit=250&page=${page}`, opts);
     if (!products.length) break;
     for (const p of products) items[p.id] = toItem(p);
@@ -209,7 +211,19 @@ async function main() {
     return;
   }
 
-  const cur = await fetchAll();
+  let cur;
+  try {
+    cur = await fetchAll();
+  } catch (e) {
+    // transient throttling (503/429/network) that survived all retries:
+    // skip this cycle cleanly — the next 5-min run recovers on its own.
+    // 4xx errors don't carry this marker and still fail the run loudly.
+    if (/after retries/.test(e.message)) {
+      console.log(`transient fetch failure — skipping this run (${e.message})`);
+      return;
+    }
+    throw e;
+  }
   const count = Object.keys(cur).length;
   console.log(`fetched ${count} products`);
 
