@@ -437,7 +437,9 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/97CE03E8-1526-47FA-9C91-5E185C0D6F12.jpg?v=1770785233",
     "sizes": [
-      "S"
+      "S",
+      "M",
+      "L"
     ]
   },
   "10235633959234": {
@@ -643,6 +645,16 @@
     "sizes": [
       "S",
       "M"
+    ]
+  },
+  "10414647574850": {
+    "title": "#BRAVO VBC",
+    "handle": "bravo-vbc",
+    "price": 109.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A8CDB628-1F06-4602-9FC4-7140B8713351.jpg?v=1784157740",
+    "sizes": [
+      "S"
     ]
   },
   "8152087396674": {
