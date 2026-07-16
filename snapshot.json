@@ -221,7 +221,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0506B5C0-35DF-41B9-A406-ABDFC9AA0738.jpg?v=1768508057",
     "sizes": [
       "S",
-      "M",
       "L",
       "XL"
     ]
@@ -1132,6 +1131,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/4BB04276-5FF0-4F6C-9B63-40ED74CDEFC2.jpg?v=1727794978",
     "sizes": [
       "S"
+    ]
+  },
+  "9744769941826": {
+    "title": "#KYZEN ACADEMY BLACK",
+    "handle": "kysen-academy",
+    "price": 229.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/579D9B8B-7A6B-4427-B3D0-A56014C279DB.jpg?v=1769122870",
+    "sizes": [
+      "M"
     ]
   },
   "9746953896258": {
