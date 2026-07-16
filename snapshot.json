@@ -828,6 +828,26 @@
       "M"
     ]
   },
+  "10414790771010": {
+    "title": "#OVC GREEN TRIDENTS",
+    "handle": "ovc-green-tridents",
+    "price": 199.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A22A5C5E-ABA4-49D5-9548-F7CA3BDCA8E9.jpg?v=1784157644",
+    "sizes": [
+      "L"
+    ]
+  },
+  "10414797095234": {
+    "title": "#LBHS PATRIOTS",
+    "handle": "lbhs-patriots",
+    "price": 119.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/36FE6F94-EE2A-4719-B89E-58DEDDEAED4F.jpg?v=1784157740",
+    "sizes": [
+      "S"
+    ]
+  },
   "8152087396674": {
     "title": "#SANDSTORMS",
     "handle": "sandstorm-slunks",
