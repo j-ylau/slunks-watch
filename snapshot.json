@@ -112,8 +112,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/D1CAFE1D-4F43-4F50-BBB3-FB535CDE7227.jpg?v=1771033925",
     "sizes": [
-      "M",
-      "L"
+      "M"
     ]
   },
   "10020091691330": {
@@ -167,6 +166,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F6C10F8B-5574-45AC-9D25-9984A4F7B930.jpg?v=1763608012",
     "sizes": [
+      "S",
       "L"
     ]
   },
@@ -178,8 +178,7 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5BCEA966-9C0B-48A9-8741-1FDCCBD6D5CA.jpg?v=1763761479",
     "sizes": [
       "S",
-      "L",
-      "XL"
+      "L"
     ]
   },
   "10023907164482": {
@@ -235,16 +234,6 @@
     "sizes": [
       "S",
       "L",
-      "XL"
-    ]
-  },
-  "10113755119938": {
-    "title": "#KAB V2 BREAST CANCER FOUNDATION",
-    "handle": "kab-v2-breast-cancer-foundation",
-    "price": 154.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5D51D16E-444C-4BAD-A55E-DE8EE4015A67.jpg?v=1784157597",
-    "sizes": [
       "XL"
     ]
   },
@@ -340,8 +329,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BE6E1CB7-AA04-4B51-9B1A-54052575780A.jpg?v=1764560488",
     "sizes": [
-      "S",
-      "M"
+      "M",
+      "L"
     ]
   },
   "10169096143170": {
@@ -1090,7 +1079,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_64a3ac10-fa4a-436e-b849-ad86510debed.jpg?v=1702329953",
     "sizes": [
-      "M"
+      "L"
     ]
   },
   "8993352548674": {
@@ -1353,7 +1342,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E4FE8018-B962-4AE3-BEDB-7A8F9C8E025D.jpg?v=1763598284",
     "sizes": [
-      "S"
+      "S",
+      "L"
     ]
   },
   "9457086464322": {
@@ -1602,16 +1592,6 @@
       "L"
     ]
   },
-  "9762307735874": {
-    "title": "#MVVC CHECKERBOARD",
-    "handle": "mvvc-checkerboard",
-    "price": 89.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6712E7D9-8B85-453F-920F-D5787FC71392.jpg?v=1729352795",
-    "sizes": [
-      "M"
-    ]
-  },
   "9762620834114": {
     "title": "#OCVC MONKEY",
     "handle": "ocvc-monkey",
@@ -1649,8 +1629,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0A913122-0721-4622-8494-CF7BE9F40296.jpg?v=1732555082",
     "sizes": [
-      "L",
-      "XL"
+      "M"
     ]
   },
   "9824069550402": {
@@ -1826,7 +1805,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/397465D0-BBB1-4AE1-8D10-7975504B65C3.jpg?v=1746506143",
     "sizes": [
-      "L",
       "XL"
     ]
   },
