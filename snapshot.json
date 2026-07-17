@@ -59,7 +59,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CF8DEE44-EAF2-4B0E-84CF-F2D78582956D.jpg?v=1767829949",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "10020074815810": {
@@ -394,7 +395,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9A7C87D7-D8B6-4C2D-94ED-130C4826AC98.jpg?v=1769126355",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "10224204939586": {
@@ -1456,10 +1458,11 @@
   "9666801795394": {
     "title": "#LACO x TWU V2",
     "handle": "laco-x-twu",
-    "price": 154.99,
+    "price": 144.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E8EF1D23-0710-41B6-BDB5-40CBDBD52034.jpg?v=1736388577",
     "sizes": [
+      "M",
       "L"
     ]
   },
