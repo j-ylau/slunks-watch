@@ -705,16 +705,6 @@
       "S"
     ]
   },
-  "10414660780354": {
-    "title": "#CVC GOLDFISH",
-    "handle": "cvc-goldfish",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/56F75012-9472-498A-A7BB-950CB215BCAE.jpg?v=1784157644",
-    "sizes": [
-      "L"
-    ]
-  },
   "10414667792706": {
     "title": "#EAST COUNTY DRAGONS",
     "handle": "east-coast-county-dragons",
@@ -1240,9 +1230,9 @@
     ]
   },
   "9088259326274": {
-    "title": "#OCC WHITE PADDLERS",
+    "title": "#OCC PADDLERS WHITE",
     "handle": "occ-white-grail",
-    "price": 219.99,
+    "price": 199.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BD38DC2F-D3AF-46E1-B11B-865664B4E728.jpg?v=1769120595",
     "sizes": [
@@ -1252,9 +1242,9 @@
   "9088260735298": {
     "title": "#OCC PADDLERS BLACK",
     "handle": "occ-black-grail",
-    "price": 149.99,
+    "price": 179.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9890962E-E993-4782-9804-33AC4C96C773.jpg?v=1739484514",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9890962E-E993-4782-9804-33AC4C96C773.jpg?v=1784327483",
     "sizes": [
       "S"
     ]
