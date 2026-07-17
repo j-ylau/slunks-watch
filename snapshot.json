@@ -1057,7 +1057,7 @@
     ]
   },
   "8982961750338": {
-    "title": "#OUTRIGGER DUKES REDS",
+    "title": "#OCC DUKES RED",
     "handle": "red-occ-slunks",
     "price": 179.99,
     "available": true,
@@ -1234,7 +1234,7 @@
     "handle": "occ-white-grail",
     "price": 199.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BD38DC2F-D3AF-46E1-B11B-865664B4E728.jpg?v=1769120595",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BD38DC2F-D3AF-46E1-B11B-865664B4E728.jpg?v=1784327763",
     "sizes": [
       "M"
     ]
@@ -1527,6 +1527,16 @@
     "sizes": [
       "S",
       "L"
+    ]
+  },
+  "9697552236866": {
+    "title": "#OCC SURFERS RED",
+    "handle": "red-occ-surfers",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5F6A6258-532B-4695-989A-4617831CC27E.jpg?v=1763668147",
+    "sizes": [
+      "M"
     ]
   },
   "9697552761154": {
