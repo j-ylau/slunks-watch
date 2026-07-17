@@ -490,7 +490,7 @@
     "handle": "miami-united-neo-palms",
     "price": 124.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A34C3A44-E660-4050-8023-34B4EFF0849A.jpg?v=1771033483",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A34C3A44-E660-4050-8023-34B4EFF0849A.jpg?v=1784325441",
     "sizes": [
       "S"
     ]
@@ -1012,6 +1012,16 @@
     "sizes": [
       "M",
       "L"
+    ]
+  },
+  "8958071079234": {
+    "title": "#MIAMI UNITED PIXELS",
+    "handle": "miami-pixel-slunks",
+    "price": 109.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B67FAA37-7AA7-45D9-A0D4-614DB6E214AE.jpg?v=1784325168",
+    "sizes": [
+      "S"
     ]
   },
   "8980791296322": {
