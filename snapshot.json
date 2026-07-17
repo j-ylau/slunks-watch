@@ -1338,6 +1338,16 @@
       "S"
     ]
   },
+  "9653148057922": {
+    "title": "#SHAKA BEACH",
+    "handle": "shaka-beach",
+    "price": 104.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F4AA5285-6166-4574-B756-E678DDB07CBA.jpg?v=1784157644",
+    "sizes": [
+      "S"
+    ]
+  },
   "9653172404546": {
     "title": "#UNIVERSITY TROJANS HS",
     "handle": "university-trojans-hs",
@@ -1509,6 +1519,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/38ABF638-EC74-44A4-9978-A39A15A5C0A3.jpg?v=1743298585",
     "sizes": [
       "S"
+    ]
+  },
+  "9765217698114": {
+    "title": "#SFSU V2",
+    "handle": "sfsu",
+    "price": 149.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/93D3DC1F-688A-4B86-A182-42959BCA58C0.jpg?v=1769124397",
+    "sizes": [
+      "M"
     ]
   },
   "9812114080066": {
