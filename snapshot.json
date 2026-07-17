@@ -1631,7 +1631,9 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0A913122-0721-4622-8494-CF7BE9F40296.jpg?v=1732555082",
     "sizes": [
-      "M"
+      "M",
+      "L",
+      "XL"
     ]
   },
   "9824069550402": {
