@@ -67,7 +67,7 @@
     "handle": "st-louis-arch",
     "price": 144.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CF8DEE44-EAF2-4B0E-84CF-F2D78582956D.jpg?v=1767829949",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CF8DEE44-EAF2-4B0E-84CF-F2D78582956D.jpg?v=1784338041",
     "sizes": [
       "M",
       "L"
@@ -231,7 +231,7 @@
     "handle": "untitled-oct6_19-35",
     "price": 124.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0506B5C0-35DF-41B9-A406-ABDFC9AA0738.jpg?v=1768508057",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0506B5C0-35DF-41B9-A406-ABDFC9AA0738.jpg?v=1784338206",
     "sizes": [
       "S",
       "L",
@@ -1853,7 +1853,7 @@
   "9962742907202": {
     "title": "#ST. JUDE NAVY",
     "handle": "st-jude-navy",
-    "price": 139.99,
+    "price": 119.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/36F3600F-4764-4F52-A70C-7CB012416902.jpg?v=1784337853",
     "sizes": [
