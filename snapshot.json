@@ -1204,7 +1204,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-0936.jpg?v=1782763606",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "9053429465410": {
@@ -1216,16 +1217,6 @@
     "sizes": [
       "S",
       "M"
-    ]
-  },
-  "9086438277442": {
-    "title": "#SLUNK DOODLES",
-    "handle": "slunkdoodles",
-    "price": 89.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/DF027CA8-8CE3-47F4-94AD-BA2C73C0FE39.jpg?v=1707406123",
-    "sizes": [
-      "L"
     ]
   },
   "9088259326274": {
