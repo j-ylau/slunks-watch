@@ -52,6 +52,16 @@
       "S"
     ]
   },
+  "10010731872578": {
+    "title": "#WINDERMERE WOLVERINES HS",
+    "handle": "windermere-wolverines-hs",
+    "price": 99.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A3B5FC8D-7BCC-4A5A-A03B-47D64248C824.jpg?v=1784339084",
+    "sizes": [
+      "L"
+    ]
+  },
   "10010734002498": {
     "title": "#WINDERMERE WOLVERINES HS OG",
     "handle": "windermere-wolverines-hs-og",
@@ -1741,6 +1751,17 @@
     "sizes": [
       "S",
       "M"
+    ]
+  },
+  "9869381271874": {
+    "title": "#YIN WOOD LUNAR NEW YEAR",
+    "handle": "new-years",
+    "price": 164.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/43AC7344-92DC-4887-82F3-698AE164D96F.jpg?v=1784339312",
+    "sizes": [
+      "S",
+      "XL"
     ]
   },
   "9893835800898": {
