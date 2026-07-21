@@ -153,6 +153,17 @@
       "M"
     ]
   },
+  "10020110238018": {
+    "title": "#NEB JUNGLE CAT",
+    "handle": "neb-jungle-cat",
+    "price": 269.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_11.jpg?v=1770923554",
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
   "10020111843650": {
     "title": "#COAST 25' BLUE",
     "handle": "coast-blue-2025",
@@ -161,6 +172,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9BF9F9E9-E643-4238-854D-670A0D64F3A8.jpg?v=1769127952",
     "sizes": [
       "M"
+    ]
+  },
+  "10020117545282": {
+    "title": "#LONG BEACH EXCLUSIVE",
+    "handle": "long-beach",
+    "price": 219.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/10F9E384-9EFA-421E-8543-A0EDD5B3B2FB.jpg?v=1784662596",
+    "sizes": [
+      "S"
     ]
   },
   "10022477922626": {
@@ -212,11 +233,11 @@
     ]
   },
   "10027471372610": {
-    "title": "#KP RECRUITER X SLUNKS MARKET CUSTOMS",
+    "title": "#KP RECRUITER CAMP",
     "handle": "kp-recruiter-x-slunks-market-customs",
     "price": 84.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_5.jpg?v=1770923238",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6FF2F4BF-0A89-4434-9A17-72A1ECDDF9C8.jpg?v=1784662546",
     "sizes": [
       "L",
       "XL"
@@ -1780,9 +1801,10 @@
     "handle": "kotc-netherlands",
     "price": 134.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/4BB04276-5FF0-4F6C-9B63-40ED74CDEFC2.jpg?v=1727794978",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3AE710DB-506E-464E-844E-E779765C9884.jpg?v=1784662596",
     "sizes": [
-      "S"
+      "S",
+      "M"
     ]
   },
   "9744769941826": {
