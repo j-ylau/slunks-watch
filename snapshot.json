@@ -523,6 +523,16 @@
       "S"
     ]
   },
+  "10225576608066": {
+    "title": "#HOT SHOTS WHITE",
+    "handle": "copy-john-hopkins-v1-1",
+    "price": 79.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/17FBA28C-1019-4323-B0A3-DE596CD073C0.jpg?v=1784662546",
+    "sizes": [
+      "S"
+    ]
+  },
   "10225578803522": {
     "title": "#HVA 25TH ANNIVERSARY",
     "handle": "copy-pace-bootlegger-matrix",
@@ -1321,6 +1331,16 @@
     "price": 134.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B93915B7-A6CC-4F3F-AAAB-1C16C5857402.jpg?v=1784336572",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9000795472194": {
+    "title": "#HOT SHOTS GRAFFITI",
+    "handle": "hot-shot-graffiti",
+    "price": 104.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C32CFB9D-B77F-4FE1-8E9B-E231FE5F6401.jpg?v=1784662643",
     "sizes": [
       "M"
     ]
