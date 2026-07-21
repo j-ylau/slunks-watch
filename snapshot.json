@@ -569,7 +569,7 @@
     ]
   },
   "10250967712066": {
-    "title": "#TEAM COLORADO BLACK SLUNKS MARKET CUSTOM",
+    "title": "#TEAM COLORADO BLACK",
     "handle": "copy-glacier-wolf-slunks-market-custom-pre-order-1",
     "price": 84.99,
     "available": true,
@@ -1000,6 +1000,19 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/184450B0-2A65-414F-BB47-CE587717B103.jpg?v=1784662666",
     "sizes": [
       "M"
+    ]
+  },
+  "10420026540354": {
+    "title": "#TEAM COLORADO EARTHDAYS",
+    "handle": "team-colorado-earthdays",
+    "price": 119.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/083B90D3-920E-4192-B21B-573BDD516282.jpg?v=1784662596",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
     ]
   },
   "8152087396674": {
@@ -1481,6 +1494,16 @@
     "price": 114.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CF34AFCC-11FF-423A-BF66-75C7D78E12E8.jpg?v=1718806911",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9579754029378": {
+    "title": "#SYRACUSE SHARKS",
+    "handle": "syracuse-vbc",
+    "price": 89.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/1B261C64-944A-4BBF-8B80-D52DA7EFABB7.jpg?v=1784662596",
     "sizes": [
       "M"
     ]
