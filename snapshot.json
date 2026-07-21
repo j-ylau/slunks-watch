@@ -900,6 +900,16 @@
       "L"
     ]
   },
+  "10419952943426": {
+    "title": "#949 LOGO BLACK",
+    "handle": "949-logo-black",
+    "price": 89.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F0B07690-B258-41A4-B883-018F324D6EDC.jpg?v=1784662596",
+    "sizes": [
+      "M"
+    ]
+  },
   "8152087396674": {
     "title": "#SANDSTORMS",
     "handle": "sandstorm-slunks",
@@ -1723,6 +1733,16 @@
     "price": 94.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B958659F-182E-4AFB-9CCE-6F076E8AB1C5.jpg?v=1740332810",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9895257080130": {
+    "title": "#949 LOGO WHITE",
+    "handle": "949-white-logos",
+    "price": 89.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0810A61B-29C9-4C9F-82B3-BB469581A2DC.jpg?v=1784662546",
     "sizes": [
       "M"
     ]
