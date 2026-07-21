@@ -982,6 +982,16 @@
       "XL"
     ]
   },
+  "10420015366466": {
+    "title": "#HIBRED HAMMAHS",
+    "handle": "hibred-hammahs",
+    "price": 119.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BFA8B80E-DFB1-4BE0-A28C-09A697C6CF09.jpg?v=1784662596",
+    "sizes": [
+      "M"
+    ]
+  },
   "8152087396674": {
     "title": "#SANDSTORMS",
     "handle": "sandstorm-slunks",
@@ -1215,6 +1225,16 @@
     "price": 124.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9E456C21-7439-4DC2-836F-1868490EFE45.jpg?v=1726878883",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9006078099778": {
+    "title": "#GOLD BLOSSOMS",
+    "handle": "gold-blossoms",
+    "price": 164.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/21709140-44CA-4162-A7DE-38DD3DD622EA.jpg?v=1784662644",
     "sizes": [
       "M"
     ]
