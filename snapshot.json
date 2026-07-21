@@ -464,9 +464,9 @@
   "10224226894146": {
     "title": "#SCVC BLUE",
     "handle": "copy-pace-2023",
-    "price": 94.99,
+    "price": 74.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/4B3D2CC8-6473-40DC-A2B1-90206FFEFED4.jpg?v=1769644885",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BB14F237-A6BE-43E6-9C89-0C01F42293CF.jpg?v=1784662666",
     "sizes": [
       "M"
     ]
@@ -1334,6 +1334,16 @@
     "sizes": [
       "S",
       "M"
+    ]
+  },
+  "9062644678978": {
+    "title": "#SAS OHANA CITY",
+    "handle": "sas-ohana-slunks",
+    "price": 119.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/412D8472-0F7D-4444-8FF3-A0E2BB73BDEF.jpg?v=1784662596",
+    "sizes": [
+      "3XL"
     ]
   },
   "9088259326274": {
