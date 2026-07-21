@@ -92,13 +92,14 @@
     ]
   },
   "10020074815810": {
-    "title": "#HOT SHOT BLACK",
+    "title": "#HOT SHOTS BLACK",
     "handle": "hot-shot-black",
-    "price": 69.99,
+    "price": 79.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_61.jpg?v=1770925905",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/4FCA2E0E-E1A7-4941-B04E-AFF763F78C9D.jpg?v=1784662546",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "10020075602242": {
@@ -131,6 +132,16 @@
     "sizes": [
       "M",
       "L"
+    ]
+  },
+  "10020083564866": {
+    "title": "#HOT SHOTS 24' BLACK",
+    "handle": "hot-shot-2024-black",
+    "price": 79.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0D576CAD-8E81-4ADF-9B10-3B8F29F8E7C4.jpg?v=1784662546",
+    "sizes": [
+      "S"
     ]
   },
   "10020091691330": {
@@ -1475,6 +1486,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/39D29776-152B-4669-AE65-8B49BFF5713A.jpg?v=1784662643",
     "sizes": [
       "L"
+    ]
+  },
+  "9123082273090": {
+    "title": "#HOT SHOTS BEACH DAY",
+    "handle": "hot-shot-cartoon",
+    "price": 149.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/DAE62651-EA8C-4405-9F84-337449EA369A.jpg?v=1784662644",
+    "sizes": [
+      "M"
     ]
   },
   "9178734920002": {
