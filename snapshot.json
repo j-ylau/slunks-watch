@@ -1141,6 +1141,17 @@
       "XL"
     ]
   },
+  "8628980875586": {
+    "title": "#OBV FLAMINGO",
+    "handle": "obv-flamingo",
+    "price": 139.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EC87A408-5FD3-4562-8089-6D7E849C9168.jpg?v=1784662644",
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
   "8883840745794": {
     "title": "#OCVC DONT SUCK GRAIL",
     "handle": "ocvc-dont-suck-grail",
@@ -1246,11 +1257,11 @@
     ]
   },
   "8993206010178": {
-    "title": "#OBV CARDS",
+    "title": "#OBV ACES",
     "handle": "obv-cards",
     "price": 139.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CE34D6F8-591F-44D0-BE4B-D8E7737E4239.jpg?v=1724723222",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8E144C9C-CCF0-48AF-A063-B67E4B57BCF5.jpg?v=1784662643",
     "sizes": [
       "M"
     ]
