@@ -1317,6 +1317,26 @@
       "L"
     ]
   },
+  "10423464264002": {
+    "title": "#ARCADIA FOOTHILL BLACK",
+    "handle": "arcadia-foothill-black",
+    "price": 74.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5055B66E-B92F-4C33-B783-730011D4BDDC.jpg?v=1784832646",
+    "sizes": [
+      "M"
+    ]
+  },
+  "10423464460610": {
+    "title": "#ARCADIA FOOTHILL MOUNTAINS",
+    "handle": "aradia-foothill-mountains",
+    "price": 114.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8112AB7B-5B39-4373-9A27-4EE1D240371B.jpg?v=1784832646",
+    "sizes": [
+      "M"
+    ]
+  },
   "8152087396674": {
     "title": "#SANDSTORMS",
     "handle": "sandstorm-slunks",
