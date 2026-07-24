@@ -581,6 +581,17 @@
       "S"
     ]
   },
+  "10225577361730": {
+    "title": "#PACE BOOTLEGGER MATRIX",
+    "handle": "copy-cc-high-school",
+    "price": 84.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8136959A-9032-4597-B1E6-373BE939D1C1.jpg?v=1769800878",
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
   "10225578803522": {
     "title": "#HVA 25TH ANNIVERSARY",
     "handle": "copy-pace-bootlegger-matrix",
@@ -1462,6 +1473,16 @@
       "L"
     ]
   },
+  "8883812827458": {
+    "title": "#OOS V1 SLUNKS",
+    "handle": "oos-v1-slunks",
+    "price": 299.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/009359F6-0017-40C2-855E-5433AEC546F4.jpg?v=1697840222",
+    "sizes": [
+      "L"
+    ]
+  },
   "8883840745794": {
     "title": "#OCVC DONT SUCK GRAIL",
     "handle": "ocvc-dont-suck-grail",
@@ -1857,7 +1878,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2B5DD351-5264-48B2-8861-3E0709ADC185.jpg?v=1784321285",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "9235518390594": {
