@@ -612,7 +612,8 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8136959A-9032-4597-B1E6-373BE939D1C1.jpg?v=1769800878",
     "sizes": [
       "M",
-      "L"
+      "L",
+      "XL"
     ]
   },
   "10225578803522": {
@@ -2097,6 +2098,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B1108B67-1600-4F4A-BD1F-FD4713362351.jpg?v=1784662546",
     "sizes": [
       "M"
+    ]
+  },
+  "9652026638658": {
+    "title": "#MCQUID HS",
+    "handle": "mcquids-hs",
+    "price": 109.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3B9C8776-A3C9-4008-B4C8-4D68653129DE.jpg?v=1763668148",
+    "sizes": [
+      "XL"
     ]
   },
   "9652079427906": {
