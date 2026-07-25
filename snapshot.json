@@ -123,6 +123,17 @@
       "M"
     ]
   },
+  "10020080746818": {
+    "title": "#HVA PINK TRAVIS SCOTTS",
+    "handle": "hva-pink-travis-scotts",
+    "price": 149.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/DB8E9DC7-6C57-4494-BAC5-BD4AB7EB0E59.jpg?v=1784662644",
+    "sizes": [
+      "XXS",
+      "XL"
+    ]
+  },
   "10020081828162": {
     "title": "#NEB “BEST DAY EVER”",
     "handle": "neb-best-day-ever",
@@ -2282,14 +2293,15 @@
     ]
   },
   "9812114080066": {
-    "title": "#OBV SUNSET SLUNKS MARKET SPONSORED CUSTOMS",
+    "title": "#OBV SUNSET",
     "handle": "obv-sunset-2025",
     "price": 104.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A8C2A64F-0E07-49F9-97D2-A0A33AA91889.jpg?v=1784326601",
     "sizes": [
       "S",
-      "M"
+      "M",
+      "XL"
     ]
   },
   "9812531151170": {
