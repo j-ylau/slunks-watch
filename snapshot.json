@@ -473,17 +473,17 @@
     ]
   },
   "10192092102978": {
-    "title": "#COLLEGIATE CLUB VOLLEYBALL LEAGUE",
+    "title": "CCVL",
     "handle": "ccvl",
     "price": 99.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8485146E-DCE2-4B83-B400-110539DC5F75.jpg?v=1766961714",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8485146E-DCE2-4B83-B400-110539DC5F75.jpg?v=1785089277",
     "sizes": [
       "M"
     ]
   },
   "10200837226818": {
-    "title": "#SOCAL CUP 25'",
+    "title": "SOCAL CUP '25",
     "handle": "socal-exclusives-2025",
     "price": 139.99,
     "available": true,
@@ -493,7 +493,7 @@
     ]
   },
   "10210356822338": {
-    "title": "#COAST OG BLACK",
+    "title": "COAST OG BLACK",
     "handle": "og-black-coast",
     "price": 164.99,
     "available": true,
@@ -503,7 +503,7 @@
     ]
   },
   "10210364555586": {
-    "title": "#USA INDEPENDENCE DAY",
+    "title": "USA INDEPENDENCE DAY",
     "handle": "usa-independence-day",
     "price": 109.99,
     "available": true,
@@ -513,7 +513,7 @@
     ]
   },
   "10217877569858": {
-    "title": "#WECVB VOLCANOE",
+    "title": "WECVB VOLCANO",
     "handle": "wecvb-volcanoe",
     "price": 164.99,
     "available": true,
