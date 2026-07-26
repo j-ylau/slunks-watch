@@ -2060,17 +2060,17 @@
     ]
   },
   "9652026638658": {
-    "title": "#MCQUID HS",
+    "title": "MCQUID HS",
     "handle": "mcquids-hs",
     "price": 109.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3B9C8776-A3C9-4008-B4C8-4D68653129DE.jpg?v=1763668148",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3B9C8776-A3C9-4008-B4C8-4D68653129DE.jpg?v=1785103514",
     "sizes": [
       "XL"
     ]
   },
   "9652079427906": {
-    "title": "#OCVC DONUTS",
+    "title": "OCVC DONUTS",
     "handle": "ocvc-donuts",
     "price": 269.99,
     "available": true,
@@ -2080,7 +2080,7 @@
     ]
   },
   "9652096172354": {
-    "title": "#PUERTO RICO PRAYING PELICANS",
+    "title": "PUERTO RICO PRAYING PELICANS",
     "handle": "puerto-rico-customs",
     "price": 119.99,
     "available": true,
@@ -2090,7 +2090,7 @@
     ]
   },
   "9653148057922": {
-    "title": "#SHAKA BEACH",
+    "title": "SHAKA BEACH",
     "handle": "shaka-beach",
     "price": 104.99,
     "available": true,
