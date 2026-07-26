@@ -2183,27 +2183,17 @@
     ]
   },
   "9697552761154": {
-    "title": "#UC ELITES",
+    "title": "UC ELITES",
     "handle": "uc-elites",
     "price": 139.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2E16C223-7A7C-4DEA-AC66-61E42DB0AF07.jpg?v=1743828203",
-    "sizes": [
-      "M"
-    ]
-  },
-  "9705354428738": {
-    "title": "#ADVERSITY ROSES",
-    "handle": "adversity-roses",
-    "price": 89.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2F357BAA-8A7D-479D-AFF4-788F74BFFB62.jpg?v=1763952606",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2E16C223-7A7C-4DEA-AC66-61E42DB0AF07.jpg?v=1785101695",
     "sizes": [
       "M"
     ]
   },
   "9705354625346": {
-    "title": "#COAST CLOUDS",
+    "title": "COAST CLOUDS",
     "handle": "coast-clouds",
     "price": 109.99,
     "available": true,
@@ -2213,7 +2203,7 @@
     ]
   },
   "9725678879042": {
-    "title": "#DAMIEN MEMORIALS",
+    "title": "DAMIEN MEMORIALS",
     "handle": "damien-a",
     "price": 149.99,
     "available": true,
