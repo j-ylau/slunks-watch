@@ -1320,7 +1320,7 @@
     ]
   },
   "10423463444802": {
-    "title": "#MVVB RED",
+    "title": "MVVB RED",
     "handle": "mvvb-red",
     "price": 49.99,
     "available": true,
@@ -1330,7 +1330,7 @@
     ]
   },
   "10423464264002": {
-    "title": "#ARCADIA FOOTHILL BLACK",
+    "title": "ARCADIA FOOTHILL BLACK",
     "handle": "arcadia-foothill-black",
     "price": 74.99,
     "available": true,
@@ -1340,7 +1340,7 @@
     ]
   },
   "10423464460610": {
-    "title": "#ARCADIA FOOTHILL MOUNTAINS",
+    "title": "ARCADIA FOOTHILL MOUNTAINS",
     "handle": "aradia-foothill-mountains",
     "price": 114.99,
     "available": true,
@@ -1350,7 +1350,7 @@
     ]
   },
   "10423464788290": {
-    "title": "#LUMADE VBC",
+    "title": "LUMADE VBC",
     "handle": "lumade-vbc",
     "price": 99.99,
     "available": true,
