@@ -1895,18 +1895,8 @@
       "S"
     ]
   },
-  "9235553354050": {
-    "title": "#626 DRAGONS",
-    "handle": "626-dragons",
-    "price": 134.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E5F37239-AA74-4368-9228-CC9AD872723D.jpg?v=1729568303",
-    "sizes": [
-      "M"
-    ]
-  },
   "9235555516738": {
-    "title": "#OBV WHITE",
+    "title": "OBV WHITE",
     "handle": "obv-white",
     "price": 74.99,
     "available": true,
@@ -1916,11 +1906,11 @@
     ]
   },
   "9244286288194": {
-    "title": "#AVB NETWORK",
+    "title": "AVB NETWORK",
     "handle": "avb-network",
     "price": 119.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/D1C3BC05-4CF5-4B0F-8CCC-4D6D7588F22B.jpg?v=1742697648",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/D1C3BC05-4CF5-4B0F-8CCC-4D6D7588F22B.jpg?v=1785104739",
     "sizes": [
       "M",
       "L"
