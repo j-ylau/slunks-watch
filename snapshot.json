@@ -2224,7 +2224,7 @@
     ]
   },
   "9729077412162": {
-    "title": "#TROY FIELD 3.0",
+    "title": "TROY FIELD 3.0",
     "handle": "troy-field-3-0",
     "price": 129.99,
     "available": true,
@@ -2233,28 +2233,8 @@
       "M"
     ]
   },
-  "9740857639234": {
-    "title": "#AZ FEAR BEIGE",
-    "handle": "az-fear-beige",
-    "price": 99.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/38FE6D88-D9DD-49A6-BBC1-0564D4B5CC66.jpg?v=1763601266",
-    "sizes": [
-      "M"
-    ]
-  },
-  "9740865798466": {
-    "title": "#NIAGRA FRONTIER",
-    "handle": "niagra-frontier",
-    "price": 119.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8F9CDC53-C950-4F19-BA85-CDA331484A3A.jpg?v=1727794883",
-    "sizes": [
-      "M"
-    ]
-  },
   "9740868682050": {
-    "title": "#KOTC NETHERLANDS",
+    "title": "KOTC NETHERLANDS",
     "handle": "kotc-netherlands",
     "price": 134.99,
     "available": true,
