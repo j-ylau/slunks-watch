@@ -2538,18 +2538,18 @@
     ]
   },
   "9957203870018": {
-    "title": "#DSAHS",
+    "title": "DSAHS",
     "handle": "dsahs",
     "price": 84.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/397465D0-BBB1-4AE1-8D10-7975504B65C3.jpg?v=1746506143",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/397465D0-BBB1-4AE1-8D10-7975504B65C3.jpg?v=1785098086",
     "sizes": [
       "M",
       "XL"
     ]
   },
   "9962742907202": {
-    "title": "#ST. JUDE NAVY",
+    "title": "ST. JUDE NAVY",
     "handle": "st-jude-navy",
     "price": 119.99,
     "available": true,
@@ -2558,34 +2558,14 @@
       "XL"
     ]
   },
-  "9962743333186": {
-    "title": "#SAN DIEGO WILD",
-    "handle": "san-diego-wild",
-    "price": 134.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_47.jpg?v=1770925331",
-    "sizes": [
-      "L"
-    ]
-  },
   "9962743595330": {
-    "title": "#KAV",
+    "title": "KAV",
     "handle": "kav",
     "price": 84.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E84E46F4-B054-4EC8-8BF2-A154BA690A50.jpg?v=1784324165",
     "sizes": [
       "M"
-    ]
-  },
-  "9962744480066": {
-    "title": "MVC CULVER SPOON",
-    "handle": "mvc-culver-spoon",
-    "price": 129.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/69BB65F9-DFF2-4701-95C0-3D2D2C8A3379.jpg?v=1785097805",
-    "sizes": [
-      "S"
     ]
   },
   "9968289087810": {
