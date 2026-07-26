@@ -31,7 +31,7 @@
     ]
   },
   "10010689012034": {
-    "title": "#POPPABEAR LA FLOWERS",
+    "title": "POPPABEAR LA FLOWERS",
     "handle": "la-flowers",
     "price": 109.99,
     "available": true,
@@ -41,7 +41,7 @@
     ]
   },
   "10010718142786": {
-    "title": "#PUERTO RICO PALMS",
+    "title": "PUERTO RICO PALMS",
     "handle": "puerto-rico-v2",
     "price": 129.99,
     "available": true,
@@ -51,23 +51,13 @@
     ]
   },
   "10010731872578": {
-    "title": "#WINDERMERE WOLVERINES HS",
+    "title": "WINDERMERE WOLVERINES",
     "handle": "windermere-wolverines-hs",
     "price": 99.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A3B5FC8D-7BCC-4A5A-A03B-47D64248C824.jpg?v=1784339084",
     "sizes": [
       "L"
-    ]
-  },
-  "10010734002498": {
-    "title": "WINDERMERE WOLVERINES FLORALS",
-    "handle": "windermere-wolverines-hs-og",
-    "price": 109.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BED53867-C633-4657-BE2B-1ADE8D5AE0D5.jpg?v=1785093299",
-    "sizes": [
-      "M"
     ]
   },
   "10014929682754": {
