@@ -2018,7 +2018,7 @@
     ]
   },
   "9620199866690": {
-    "title": "#SD BEACH FLORALS",
+    "title": "SD BEACH FLORALS",
     "handle": "sd-beach-florals",
     "price": 219.99,
     "available": true,
@@ -2028,7 +2028,7 @@
     ]
   },
   "9630194172226": {
-    "title": "#PURE ALOHA WHITE",
+    "title": "PURE ALOHA WHITE",
     "handle": "pure-aloha-white",
     "price": 139.99,
     "available": true,
@@ -2038,7 +2038,7 @@
     ]
   },
   "9631209488706": {
-    "title": "#OCVC GRAFFITI",
+    "title": "OCVC GRAFFITI",
     "handle": "ocvc-graffiti",
     "price": 184.99,
     "available": true,
@@ -2050,23 +2050,13 @@
     ]
   },
   "9638356418882": {
-    "title": "#CHASE FRISHER",
+    "title": "CHASE FRISHER",
     "handle": "chase-frisher",
     "price": 94.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B1108B67-1600-4F4A-BD1F-FD4713362351.jpg?v=1784662546",
     "sizes": [
       "M"
-    ]
-  },
-  "9652026638658": {
-    "title": "MCQUID HS",
-    "handle": "mcquids-hs",
-    "price": 109.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3B9C8776-A3C9-4008-B4C8-4D68653129DE.jpg?v=1785103514",
-    "sizes": [
-      "XL"
     ]
   },
   "9652079427906": {
