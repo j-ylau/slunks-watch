@@ -165,6 +165,16 @@
       "M"
     ]
   },
+  "10020110238018": {
+    "title": "NEB JUNGLE CAT",
+    "handle": "neb-jungle-cat",
+    "price": 269.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_11.jpg?v=1770923554",
+    "sizes": [
+      "S"
+    ]
+  },
   "10020111843650": {
     "title": "COAST '25 BLUE",
     "handle": "coast-blue-2025",
@@ -2255,7 +2265,7 @@
     ]
   },
   "9746953896258": {
-    "title": "#SAS WAVES CUSTOMS",
+    "title": "SAS WAVES",
     "handle": "sas-waves",
     "price": 134.99,
     "available": true,
@@ -2265,7 +2275,7 @@
     ]
   },
   "9746960384322": {
-    "title": "#SAS OHANA RAINBOW",
+    "title": "SAS OHANA RAINBOW",
     "handle": "sas-ohana-slunksmarket-sponsored-custom-slunks-for-pre-order",
     "price": 89.99,
     "available": true,
@@ -2276,7 +2286,7 @@
     ]
   },
   "9752921211202": {
-    "title": "#SAGE CREEK",
+    "title": "SAGE CREEK",
     "handle": "sage-creek",
     "price": 109.99,
     "available": true,
@@ -2286,7 +2296,7 @@
     ]
   },
   "9762620834114": {
-    "title": "#OCVC MONKEY",
+    "title": "OCVC MONKEY",
     "handle": "ocvc-monkey",
     "price": 119.99,
     "available": true,
@@ -2296,7 +2306,7 @@
     ]
   },
   "9765217698114": {
-    "title": "#SFSU V2",
+    "title": "SFSU V2",
     "handle": "sfsu",
     "price": 149.99,
     "available": true,
@@ -2536,6 +2546,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E84E46F4-B054-4EC8-8BF2-A154BA690A50.jpg?v=1784324165",
     "sizes": [
       "M"
+    ]
+  },
+  "9963968332098": {
+    "title": "NEO CITY",
+    "handle": "neo-slunks-by-slunks-market",
+    "price": 99.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_3.jpg?v=1770923159",
+    "sizes": [
+      "L"
     ]
   },
   "9968289087810": {
