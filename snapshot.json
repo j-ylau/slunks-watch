@@ -810,7 +810,7 @@
     ]
   },
   "10321121313090": {
-    "title": "#TNT RED",
+    "title": "TNT RED",
     "handle": "tnt-red",
     "price": 89.99,
     "available": true,
@@ -820,7 +820,7 @@
     ]
   },
   "10321122591042": {
-    "title": "#CA VOLLEYBALL",
+    "title": "CA VOLLEY PALMS",
     "handle": "ca-volleyball",
     "price": 99.99,
     "available": true,
@@ -841,7 +841,7 @@
     ]
   },
   "10358442033474": {
-    "title": "#LONG BEACH CLUB CUSTOMS",
+    "title": "LONG BEACH WAVES",
     "handle": "long-beach-club-customs",
     "price": 139.99,
     "available": true,
@@ -851,9 +851,9 @@
     ]
   },
   "10358579298626": {
-    "title": "#IVA PIRATES",
+    "title": "IVA PIRATES",
     "handle": "iva-pirates",
-    "price": 109.99,
+    "price": 114.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-0358.jpg?v=1780190798",
     "sizes": [
@@ -864,7 +864,7 @@
     ]
   },
   "10360340447554": {
-    "title": "#HIBRED BLACK HAWAII",
+    "title": "HIBRED BLACK HAWAII",
     "handle": "hibred-black-slunks-market-customs",
     "price": 119.99,
     "available": true,
@@ -876,7 +876,7 @@
     ]
   },
   "10362323829058": {
-    "title": "HIBRED PINK STATUES",
+    "title": "HIBRED PINK HAWAII",
     "handle": "hibred-pink-slunks-market-customs",
     "price": 119.99,
     "available": true,
