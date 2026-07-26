@@ -523,7 +523,7 @@
     ]
   },
   "10217961521474": {
-    "title": "#SOUTHWEST BOYS CLASSIC",
+    "title": "SOUTHWEST BOYS CLASSIC",
     "handle": "southwest-boys-classic",
     "price": 114.99,
     "available": true,
@@ -534,7 +534,7 @@
     ]
   },
   "10224204939586": {
-    "title": "#LOVE IS LOVE",
+    "title": "LOVE IS LOVE",
     "handle": "love-is-love",
     "price": 94.99,
     "available": true,
@@ -544,7 +544,7 @@
     ]
   },
   "10224219554114": {
-    "title": "#PACE BOOTLEGGERS LOGOS",
+    "title": "PACE BOOTLEGGERS LOGOS",
     "handle": "copy-pace-florals",
     "price": 84.99,
     "available": true,
@@ -554,7 +554,7 @@
     ]
   },
   "10224224010562": {
-    "title": "#PACE BOOTLEGGERS 23'",
+    "title": "PACE BOOTLEGGERS '23",
     "handle": "copy-pace-logo-s",
     "price": 79.99,
     "available": true,
@@ -564,7 +564,7 @@
     ]
   },
   "10224226894146": {
-    "title": "#SCVC BLUE",
+    "title": "SCVC BLUE",
     "handle": "copy-pace-2023",
     "price": 74.99,
     "available": true,
@@ -573,18 +573,8 @@
       "M"
     ]
   },
-  "10225572741442": {
-    "title": "#FORZA CITY SCAPE",
-    "handle": "copy-john-hopkins-v1",
-    "price": 89.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2A847878-6079-4137-AB10-9041DE2CB0DE.jpg?v=1769800083",
-    "sizes": [
-      "S"
-    ]
-  },
   "10225573724482": {
-    "title": "#CC HIGH SCHOOL",
+    "title": "CC HIGH SCHOOL",
     "handle": "copy-forza-city-scape",
     "price": 49.99,
     "available": true,
@@ -594,7 +584,7 @@
     ]
   },
   "10225576608066": {
-    "title": "#HOT SHOTS WHITE",
+    "title": "HOT SHOTS WHITE",
     "handle": "copy-john-hopkins-v1-1",
     "price": 79.99,
     "available": true,
