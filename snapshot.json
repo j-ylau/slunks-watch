@@ -1383,10 +1383,24 @@
   "10429527490882": {
     "title": "XIAO LONG POW V1",
     "handle": "xiao-long-pow-v1",
-    "price": 124.99,
+    "price": 119.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/AEE8FF2A-03E0-407B-9810-BB05ADC6B910.jpg?v=1785205279",
     "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  "10429531881794": {
+    "title": "XIAO LONG POW V2",
+    "handle": "xiao-long-pow-v2",
+    "price": 124.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3E0C25FF-94BB-4689-AA50-0EF03E83FB2E.jpg?v=1785205280",
+    "sizes": [
+      "XXS",
       "S",
       "M",
       "L",
