@@ -460,16 +460,6 @@
       "L"
     ]
   },
-  "10192092102978": {
-    "title": "CCVL",
-    "handle": "ccvl",
-    "price": 99.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8485146E-DCE2-4B83-B400-110539DC5F75.jpg?v=1785089277",
-    "sizes": [
-      "M"
-    ]
-  },
   "10200837226818": {
     "title": "SOCAL CUP '25",
     "handle": "socal-exclusives-2025",
@@ -559,6 +549,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BB14F237-A6BE-43E6-9C89-0C01F42293CF.jpg?v=1784662666",
     "sizes": [
       "M"
+    ]
+  },
+  "10225572741442": {
+    "title": "FORZA CITYSCAPE",
+    "handle": "copy-john-hopkins-v1",
+    "price": 89.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/03E4F971-60BA-45F0-9649-345CC41CE4E4.jpg?v=1785471909",
+    "sizes": [
+      "XS"
     ]
   },
   "10225573724482": {
@@ -1405,6 +1405,46 @@
       "XL"
     ]
   },
+  "10432603291970": {
+    "title": "APEX BLACK",
+    "handle": "apex-black",
+    "price": 74.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/03D7DF6E-2DCF-4C9E-A966-DCD0109F1578.jpg?v=1785471909",
+    "sizes": [
+      "M"
+    ]
+  },
+  "10432605159746": {
+    "title": "HOT SHOTS PALMS",
+    "handle": "hot-shots-palms",
+    "price": 114.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0D1AC9D7-AEBA-4E85-91A8-AFEADDA81495.jpg?v=1785471909",
+    "sizes": [
+      "XS"
+    ]
+  },
+  "10432606863682": {
+    "title": "SC LEGENDS BLACK",
+    "handle": "sc-legends-black",
+    "price": 49.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/73CBDC43-BC81-45CB-A51F-711B5111B5B3.jpg?v=1785471909",
+    "sizes": [
+      "XXS"
+    ]
+  },
+  "10432607224130": {
+    "title": "VAQUEROS RED HATS",
+    "handle": "vaqueros-red-hats",
+    "price": 89.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/1A6EA356-44CA-42CD-A67B-C80A5A78A002.jpg?v=1785471909",
+    "sizes": [
+      "S"
+    ]
+  },
   "8161227243842": {
     "title": "SAMURAI ORIGINAL BLACK",
     "handle": "slunksmarket-customs-samurais",
@@ -1666,6 +1706,17 @@
       "XXL"
     ]
   },
+  "8997640077634": {
+    "title": "OCVC SCUBAS",
+    "handle": "ocvc-scubas",
+    "price": 154.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3CC577F6-6C6F-4B3C-B77B-E6F3BD9C0ADD.jpg?v=1785471909",
+    "sizes": [
+      "L",
+      "XL"
+    ]
+  },
   "9000795472194": {
     "title": "HOT SHOTS GRAFFITI",
     "handle": "hot-shot-graffiti",
@@ -1722,6 +1773,16 @@
     "price": 149.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C62D5389-6789-4848-9DDA-68B54D85F1C8.jpg?v=1785110197",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9023328289090": {
+    "title": "OOS REVERSE TRINITY",
+    "handle": "oos-rev-trinity",
+    "price": 234.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-2540.jpg?v=1785478442",
     "sizes": [
       "M"
     ]
@@ -2490,6 +2551,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/Screenshot_2026-02-12_130117_3.jpg?v=1770923159",
     "sizes": [
       "L"
+    ]
+  },
+  "9968289087810": {
+    "title": "REBORN FROM ASH",
+    "handle": "reborn-from-ash-slunks-market-fundraiser-pre-order",
+    "price": 139.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2CD9970C-DD71-4BA6-8409-062BC14EE33C.jpg?v=1785097633",
+    "sizes": [
+      "M"
     ]
   },
   "9981390913858": {
