@@ -37,7 +37,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/84FAEB74-2B5B-4E00-AB7F-6CFF66C14638.jpg?v=1784329400",
     "sizes": [
-      "S",
       "M"
     ]
   },
@@ -202,16 +201,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/10F9E384-9EFA-421E-8543-A0EDD5B3B2FB.jpg?v=1784662596",
     "sizes": [
       "S"
-    ]
-  },
-  "10022477627714": {
-    "title": "MAHJONG SNAKE EYE",
-    "handle": "mahjong-custom-pre-order",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_1bd779b6-5354-4551-9314-54f8aef51973.jpg?v=1758199664",
-    "sizes": [
-      "M"
     ]
   },
   "10022477922626": {
