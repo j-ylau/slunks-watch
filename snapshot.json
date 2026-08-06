@@ -163,16 +163,6 @@
       "M"
     ]
   },
-  "10020109779266": {
-    "title": "#KING CRABB",
-    "handle": "king-crabb",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BAE81A16-9646-4FD9-A069-E00FB9D9F112.jpg?v=1764560488",
-    "sizes": [
-      "S"
-    ]
-  },
   "10020110238018": {
     "title": "NEB JUNGLE CAT",
     "handle": "neb-jungle-cat",
@@ -445,16 +435,6 @@
       "XL"
     ]
   },
-  "10169228165442": {
-    "title": "#757 BEACH",
-    "handle": "757-beach",
-    "price": 199.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EECAEE55-7D58-42D9-9A8E-E2D895B21405.jpg?v=1764570444",
-    "sizes": [
-      "XL"
-    ]
-  },
   "10169252380994": {
     "title": "CORNELL UNIVERSITY",
     "handle": "cornell-university",
@@ -684,17 +664,6 @@
       "M"
     ]
   },
-  "10225706860866": {
-    "title": "#OOS WAUPACA 2025",
-    "handle": "copy-mustangs-hs-1",
-    "price": 174.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F312AA2C-8334-4DE1-BF3D-2B143EB171BC.jpg?v=1769810366",
-    "sizes": [
-      "L",
-      "XL"
-    ]
-  },
   "10225707548994": {
     "title": "9 MAN CHI LONG",
     "handle": "copy-kyzen-white",
@@ -758,16 +727,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A34C3A44-E660-4050-8023-34B4EFF0849A.jpg?v=1784325441",
     "sizes": [
       "S"
-    ]
-  },
-  "10235638612290": {
-    "title": "#GARDEN STATE ELITE",
-    "handle": "garden-state-elite",
-    "price": 134.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/13E5817B-F014-4A73-A6FE-75C0A1FEB5F2.jpg?v=1771033704",
-    "sizes": [
-      "XL"
     ]
   },
   "10235645952322": {
