@@ -284,6 +284,16 @@
       "XL"
     ]
   },
+  "10031971696962": {
+    "title": "#626 MAMBA",
+    "handle": "626-mamba-venom",
+    "price": 259.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_24330875-576e-4023-ab7d-dc9d9a74b070.png?v=1754794880",
+    "sizes": [
+      "XL"
+    ]
+  },
   "10036761723202": {
     "title": "SHADOW SERPENT BLOSSOMS",
     "handle": "shadow-serpent-blossoms-slunks-market-custom-pre-order",
@@ -294,6 +304,16 @@
       "S",
       "M",
       "L"
+    ]
+  },
+  "10047388647746": {
+    "title": "#LUAU EXCLUSIVE CHEEHOO",
+    "handle": "cheehoo",
+    "price": 159.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/56AB9B81-E76E-4BD6-8050-BA1A8227B340.jpg?v=1763601266",
+    "sizes": [
+      "M"
     ]
   },
   "10088848097602": {
@@ -358,6 +378,18 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-2198.jpg?v=1768313459",
     "sizes": [
       "M"
+    ]
+  },
+  "10140610822466": {
+    "title": "#415 DRAGON CUSTOMS",
+    "handle": "415-dragon-customs",
+    "price": 199.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EC1D6DBA-4685-4613-80C8-FB4ECA0A8C85.jpg?v=1762898370",
+    "sizes": [
+      "S",
+      "M",
+      "L"
     ]
   },
   "10146703900994": {
