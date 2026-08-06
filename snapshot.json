@@ -163,6 +163,16 @@
       "M"
     ]
   },
+  "10020109779266": {
+    "title": "KING CRABB",
+    "handle": "king-crabb",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BAE81A16-9646-4FD9-A069-E00FB9D9F112.jpg?v=1785982951",
+    "sizes": [
+      "S"
+    ]
+  },
   "10020110238018": {
     "title": "NEB JUNGLE CAT",
     "handle": "neb-jungle-cat",
@@ -634,6 +644,16 @@
       "M"
     ]
   },
+  "10225579819330": {
+    "title": "NIAGRA FRONTIER BUFFALO",
+    "handle": "copy-pace-bootlegger-matrix-1",
+    "price": 74.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-4692.jpg?v=1785982930",
+    "sizes": [
+      "S"
+    ]
+  },
   "10225592041794": {
     "title": "OOS SPINS",
     "handle": "copy-ob-feathers",
@@ -727,6 +747,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A34C3A44-E660-4050-8023-34B4EFF0849A.jpg?v=1784325441",
     "sizes": [
       "S"
+    ]
+  },
+  "10235638612290": {
+    "title": "GARDEN STATE ELITE",
+    "handle": "garden-state-elite",
+    "price": 134.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/13E5817B-F014-4A73-A6FE-75C0A1FEB5F2.jpg?v=1771033704",
+    "sizes": [
+      "XL"
     ]
   },
   "10235645952322": {
