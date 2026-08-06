@@ -68,6 +68,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E2716C7A-8345-4755-937C-36EB11848397.jpg?v=1750600252",
     "sizes": [
+      "S",
       "L"
     ]
   },
@@ -1661,6 +1662,17 @@
       "S"
     ]
   },
+  "8280285512002": {
+    "title": "#ROCKSTAR VB STARS",
+    "handle": "rockstars-vb-slunks",
+    "price": 169.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B5C9C7AD-4A86-46BF-8AFD-288138DC82CF.jpg?v=1763955705",
+    "sizes": [
+      "XL",
+      "XXL"
+    ]
+  },
   "8372500103490": {
     "title": "SAMURAI ORIGINAL WHITE",
     "handle": "v2-samurai-slunks-whiteout",
@@ -1711,6 +1723,16 @@
     "price": 139.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0F9A0C43-B775-4A42-B7BE-2C1840BBEB11.jpg?v=1785112507",
+    "sizes": [
+      "M"
+    ]
+  },
+  "8700582461762": {
+    "title": "#RED DRAGONS",
+    "handle": "the-top-limited-slunksmarket-dragon-collection-rose-edition",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_a20b7d79-f5d5-4420-87cc-49699e67e38e.jpg?v=1700334197",
     "sizes": [
       "M"
     ]
@@ -1866,6 +1888,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5E15143D-3449-474D-81FD-BE2C67EA62BA.jpg?v=1784329589",
     "sizes": [
+      "S",
       "XXL"
     ]
   },
@@ -2237,6 +2260,17 @@
       "S"
     ]
   },
+  "9520690692418": {
+    "title": "#NY HORIZONS V1",
+    "handle": "horizons",
+    "price": 184.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_4b3cde0b-bc3d-4f47-a628-7439d51111f6.jpg?v=1717277485",
+    "sizes": [
+      "M",
+      "XL"
+    ]
+  },
   "9577348170050": {
     "title": "EL-LAYS",
     "handle": "el-lays",
@@ -2244,7 +2278,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A9A4F83F-EAD5-4F88-A840-8A1E026F8472.jpg?v=1785104255",
     "sizes": [
-      "XL"
+      "XL",
+      "XXL"
     ]
   },
   "9579754029378": {
@@ -2295,6 +2330,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6F600AC0-F745-4C4B-A494-09B37920E5B7.jpg?v=1784330380",
     "sizes": [
       "3XL"
+    ]
+  },
+  "9630486167874": {
+    "title": "#OBV SQUIDS",
+    "handle": "obv-squid",
+    "price": 169.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/927229FA-B36A-4337-B869-4FBC5FE5B5F2.jpg?v=1739479764",
+    "sizes": [
+      "XL"
     ]
   },
   "9631209488706": {
@@ -2368,6 +2413,17 @@
       "M"
     ]
   },
+  "9654464250178": {
+    "title": "#NY HORIZONS V2",
+    "handle": "horizons-v2",
+    "price": 199.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BDEC3D26-DBEC-4CBE-8012-9B37B2CEC0B7.jpg?v=1722146992",
+    "sizes": [
+      "S",
+      "XL"
+    ]
+  },
   "9654469165378": {
     "title": "BAD BOYS OC CROWN",
     "handle": "bad-boys-oc-crown",
@@ -2375,7 +2431,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2852FCC2-988F-4C12-8020-554C50BDBE11.jpg?v=1785102871",
     "sizes": [
-      "S"
+      "S",
+      "L"
     ]
   },
   "9666801795394": {
@@ -2473,6 +2530,16 @@
       "M"
     ]
   },
+  "9744769941826": {
+    "title": "#KYZEN ACADEMY BLACK",
+    "handle": "kysen-academy",
+    "price": 229.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/579D9B8B-7A6B-4427-B3D0-A56014C279DB.jpg?v=1769122870",
+    "sizes": [
+      "XL"
+    ]
+  },
   "9746953896258": {
     "title": "SAS WAVES",
     "handle": "sas-waves",
@@ -2512,6 +2579,26 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/93D3DC1F-688A-4B86-A182-42959BCA58C0.jpg?v=1784336786",
     "sizes": [
       "M"
+    ]
+  },
+  "9765609406786": {
+    "title": "#NEW JERSEY TRI STATE",
+    "handle": "new-jersey-tri-state",
+    "price": 139.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/474C12BF-9DA1-4085-89EC-54014B7D5072.jpg?v=1729729697",
+    "sizes": [
+      "XL"
+    ]
+  },
+  "9777229365570": {
+    "title": "#JAPAN WAVES",
+    "handle": "japan-waves-slunksmarket-sponsored-slunks-pre-order",
+    "price": 169.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/1EA01A50-A7E3-404A-A75B-6E8B0CA41C7E.jpg?v=1774141860",
+    "sizes": [
+      "S"
     ]
   },
   "9812114080066": {
@@ -2635,7 +2722,9 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/74453C67-E2BD-4437-BD8E-7AD43EE33472.jpg?v=1785099148",
     "sizes": [
-      "L"
+      "M",
+      "L",
+      "XL"
     ]
   },
   "9893835800898": {
@@ -2710,7 +2799,9 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/981A59CE-22BF-48BD-96AE-363A6066742E.jpg?v=1784322177",
     "sizes": [
       "S",
-      "M"
+      "M",
+      "XXL",
+      "3XL"
     ]
   },
   "9955667673410": {
