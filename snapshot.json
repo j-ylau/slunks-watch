@@ -2382,11 +2382,11 @@
     ]
   },
   "9654464250178": {
-    "title": "#NY HORIZONS V2",
+    "title": "NY HORIZONS V2",
     "handle": "horizons-v2",
     "price": 199.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BDEC3D26-DBEC-4CBE-8012-9B37B2CEC0B7.jpg?v=1722146992",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BDEC3D26-DBEC-4CBE-8012-9B37B2CEC0B7.jpg?v=1786129801",
     "sizes": [
       "S",
       "XL"
@@ -2547,16 +2547,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/93D3DC1F-688A-4B86-A182-42959BCA58C0.jpg?v=1784336786",
     "sizes": [
       "M"
-    ]
-  },
-  "9765609406786": {
-    "title": "#NEW JERSEY TRI STATE",
-    "handle": "new-jersey-tri-state",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/474C12BF-9DA1-4085-89EC-54014B7D5072.jpg?v=1729729697",
-    "sizes": [
-      "XL"
     ]
   },
   "9777229365570": {
