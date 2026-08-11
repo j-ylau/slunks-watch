@@ -1709,7 +1709,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/60393226-57C0-48A4-AEEC-C5033D2AEAC5.jpg?v=1786411421",
     "sizes": [
-      "S",
       "M",
       "L"
     ]
@@ -2920,7 +2919,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/71D1EFA6-B9DC-486A-AA7F-A9FE2CA06A73.jpg?v=1784331501",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "9919774163266": {
@@ -2931,6 +2931,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/26EC5421-6EEE-47ED-ABFE-F814CF242D61.jpg?v=1785098804",
     "sizes": [
       "S"
+    ]
+  },
+  "9921236336962": {
+    "title": "#UCLA FLORALS",
+    "handle": "ucla-florals",
+    "price": 239.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/AAC975EC-EAB0-4265-8FF3-18B247112DE4.jpg?v=1742869505",
+    "sizes": [
+      "L"
     ]
   },
   "9921533411650": {
