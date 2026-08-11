@@ -842,7 +842,7 @@
   "10321102405954": {
     "title": "PULSE BLUE SPLATTER",
     "handle": "pulse-blue-splatter",
-    "price": 94.99,
+    "price": 104.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6814633A-5A14-4BDB-9308-09656EFA08B9.jpg?v=1786411421",
     "sizes": [
@@ -1679,6 +1679,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A5DA2FBB-0150-4D69-8A69-2539A1F60696.jpg?v=1786411421",
     "sizes": [
       "L"
+    ]
+  },
+  "10457015812418": {
+    "title": "PULSE STRIPES",
+    "handle": "pulse-stripes",
+    "price": 89.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/74C4AF6F-B7D9-4C48-AA7B-8AD4AF49BA9D.jpg?v=1786411421",
+    "sizes": [
+      "M"
     ]
   },
   "8161227243842": {
