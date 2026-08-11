@@ -297,6 +297,16 @@
       "L"
     ]
   },
+  "10047388647746": {
+    "title": "LUAU CHEEHOO",
+    "handle": "cheehoo",
+    "price": 159.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/56AB9B81-E76E-4BD6-8050-BA1A8227B340.jpg?v=1786131605",
+    "sizes": [
+      "M"
+    ]
+  },
   "10088848097602": {
     "title": "LETS KEEP THE BALL FLYING",
     "handle": "lktbf",
@@ -936,7 +946,7 @@
   "10358579298626": {
     "title": "IVA PIRATES",
     "handle": "iva-pirates",
-    "price": 114.99,
+    "price": 104.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-0358.jpg?v=1780190798",
     "sizes": [
@@ -1577,16 +1587,6 @@
     "price": 154.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0D4B06EE-6F02-48B9-AD55-F65DEB305E35.jpg?v=1785796251",
-    "sizes": [
-      "M"
-    ]
-  },
-  "10438644433218": {
-    "title": "BLACK KŌKUA",
-    "handle": "black-kokua",
-    "price": 134.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-4639.jpg?v=1785898881",
     "sizes": [
       "M"
     ]
@@ -2354,6 +2354,16 @@
       "L"
     ]
   },
+  "9247218762050": {
+    "title": "PUERTO RICO LIMITED",
+    "handle": "puerto-rico-limited",
+    "price": 164.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F281184D-9CB6-4548-BD70-258DCEB5602B.jpg?v=1786131900",
+    "sizes": [
+      "L"
+    ]
+  },
   "9456190849346": {
     "title": "SG ELITE",
     "handle": "sg-elite",
@@ -2547,16 +2557,6 @@
     "sizes": [
       "S",
       "XL"
-    ]
-  },
-  "9654469165378": {
-    "title": "BAD BOYS OC CROWN",
-    "handle": "bad-boys-oc-crown",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2852FCC2-988F-4C12-8020-554C50BDBE11.jpg?v=1785102871",
-    "sizes": [
-      "L"
     ]
   },
   "9666801795394": {
