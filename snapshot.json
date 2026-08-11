@@ -229,7 +229,7 @@
     ]
   },
   "10022507118914": {
-    "title": "#CHINESE NEW YEAR OG",
+    "title": "CHINESE NEW YEAR OG",
     "handle": "chinese-new-year-og",
     "price": 254.99,
     "available": true,
@@ -318,7 +318,7 @@
     ]
   },
   "10083018473794": {
-    "title": "#YORKTOWNE 2024 WHITE",
+    "title": "YORKTOWNE 2024 WHITE",
     "handle": "yorktowne-2025-white",
     "price": 109.99,
     "available": true,
@@ -2898,6 +2898,16 @@
       "XS"
     ]
   },
+  "9861317984578": {
+    "title": "PREVAIL SPECKALED",
+    "handle": "prevail-speckaled",
+    "price": 99.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FED37058-4944-4590-985B-DDA485C15287.png?v=1736726007",
+    "sizes": [
+      "L"
+    ]
+  },
   "9869381271874": {
     "title": "YIN WOOD LUNAR NEW YEAR",
     "handle": "new-years",
@@ -2933,7 +2943,7 @@
     ]
   },
   "9895253639490": {
-    "title": "#NIAGARA FRONTIER",
+    "title": "NIAGARA FRONTIER",
     "handle": "niagara-frontier",
     "price": 79.99,
     "available": true,
