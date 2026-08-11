@@ -633,6 +633,18 @@
       "S"
     ]
   },
+  "10225577361730": {
+    "title": "PACE BOOTLEGGER MATRIX",
+    "handle": "copy-cc-high-school",
+    "price": 84.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/19D23628-4178-469D-99C0-3A42C185CD35.jpg?v=1786411421",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
   "10225578803522": {
     "title": "HVA 25TH ANNIVERSARY",
     "handle": "copy-pace-bootlegger-matrix",
@@ -1634,6 +1646,28 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/99E2785B-EB9A-44B6-A0A3-1B6D86787BA5.jpg?v=1786411420",
     "sizes": [
       "M",
+      "L"
+    ]
+  },
+  "10456999461186": {
+    "title": "OOS JOOS",
+    "handle": "oos-joos",
+    "price": 149.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/60393226-57C0-48A4-AEEC-C5033D2AEAC5.jpg?v=1786411421",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  "10457001066818": {
+    "title": "PACE BOOTLEGGERS BLUE",
+    "handle": "pace-bootleggers-blue",
+    "price": 74.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A5DA2FBB-0150-4D69-8A69-2539A1F60696.jpg?v=1786411421",
+    "sizes": [
       "L"
     ]
   },
