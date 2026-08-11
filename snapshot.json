@@ -477,6 +477,16 @@
       "XL"
     ]
   },
+  "10169228165442": {
+    "title": "757 BEACH",
+    "handle": "757-beach",
+    "price": 169.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EECAEE55-7D58-42D9-9A8E-E2D895B21405.jpg?v=1764570444",
+    "sizes": [
+      "XL"
+    ]
+  },
   "10169252380994": {
     "title": "CORNELL UNIVERSITY",
     "handle": "cornell-university",
@@ -707,6 +717,17 @@
       "M"
     ]
   },
+  "10225706860866": {
+    "title": "OOS WAUPACA '25",
+    "handle": "copy-mustangs-hs-1",
+    "price": 174.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F312AA2C-8334-4DE1-BF3D-2B143EB171BC.jpg?v=1769810366",
+    "sizes": [
+      "L",
+      "XL"
+    ]
+  },
   "10225707548994": {
     "title": "9 MAN CHI LONG",
     "handle": "copy-kyzen-white",
@@ -826,6 +847,16 @@
       "S",
       "M",
       "XL"
+    ]
+  },
+  "10260858831170": {
+    "title": "OREGON DUCK V2",
+    "handle": "oregon-duck-black-edition",
+    "price": 249.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_830bff6e-b841-4a8a-b808-fdee7eb0318b.png?v=1773247438",
+    "sizes": [
+      "L"
     ]
   },
   "10281862988098": {
@@ -2495,6 +2526,17 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0B609D9C-8146-45E2-A11E-013E4012E86F.jpg?v=1784323003",
     "sizes": [
       "M"
+    ]
+  },
+  "9654464250178": {
+    "title": "NY HORIZONS V2",
+    "handle": "horizons-v2",
+    "price": 219.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BDEC3D26-DBEC-4CBE-8012-9B37B2CEC0B7.jpg?v=1786129801",
+    "sizes": [
+      "S",
+      "XL"
     ]
   },
   "9654469165378": {
