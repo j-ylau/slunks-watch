@@ -636,7 +636,7 @@
   "10225577361730": {
     "title": "PACE BOOTLEGGER MATRIX",
     "handle": "copy-cc-high-school",
-    "price": 84.99,
+    "price": 94.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/19D23628-4178-469D-99C0-3A42C185CD35.jpg?v=1786411421",
     "sizes": [
@@ -837,6 +837,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/ED46069C-D8F2-404E-BC20-2935871F8059.jpg?v=1784662643",
     "sizes": [
       "M"
+    ]
+  },
+  "10321102405954": {
+    "title": "PULSE BLUE SPLATTER",
+    "handle": "pulse-blue-splatter",
+    "price": 94.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6814633A-5A14-4BDB-9308-09656EFA08B9.jpg?v=1786411421",
+    "sizes": [
+      "L"
     ]
   },
   "10321102635330": {
@@ -2680,6 +2690,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/421C725B-2FE2-4076-9F07-5DA181939CD5.jpg?v=1784662643",
     "sizes": [
       "XXL"
+    ]
+  },
+  "9840663200066": {
+    "title": "PULSE GRADIENTS",
+    "handle": "pulse-gradients",
+    "price": 119.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/45928165-D7BF-490B-91CA-4BECD6CFB1ED.jpg?v=1786411421",
+    "sizes": [
+      "L"
     ]
   },
   "9844607877442": {
