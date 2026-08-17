@@ -1715,6 +1715,26 @@
       "M"
     ]
   },
+  "10470772965698": {
+    "title": "BOISE STATE",
+    "handle": "boise-state",
+    "price": 89.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/304D09DC-94B4-45F7-8F57-43805929225F.jpg?v=1787000882",
+    "sizes": [
+      "S"
+    ]
+  },
+  "10470774079810": {
+    "title": "ECLIPSE BLUE FIRE",
+    "handle": "eclipse-blue-fire",
+    "price": 139.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/AFCF8874-EBD0-4ABD-837A-F95A83CC89E3.jpg?v=1787000882",
+    "sizes": [
+      "M"
+    ]
+  },
   "8161227243842": {
     "title": "SAMURAI ORIGINAL BLACK",
     "handle": "slunksmarket-customs-samurais",
