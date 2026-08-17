@@ -191,7 +191,9 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/10F9E384-9EFA-421E-8543-A0EDD5B3B2FB.jpg?v=1784662596",
     "sizes": [
-      "S"
+      "S",
+      "M",
+      "L"
     ]
   },
   "10022477922626": {
@@ -3010,10 +3012,11 @@
   "9991625015618": {
     "title": "HANAMI ZEN",
     "handle": "hanami-zen-slunks-market-pre-order",
-    "price": 114.99,
+    "price": 124.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C3DF4251-0BB7-4C71-9144-1DAB9D694809.jpg?v=1784322491",
     "sizes": [
+      "M",
       "XL"
     ]
   }
