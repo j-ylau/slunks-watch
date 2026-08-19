@@ -69,8 +69,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E2716C7A-8345-4755-937C-36EB11848397.jpg?v=1750600252",
     "sizes": [
-      "S",
-      "L"
+      "S"
     ]
   },
   "10017128055106": {
@@ -2171,16 +2170,6 @@
       "M"
     ]
   },
-  "9042485707074": {
-    "title": "SNOWSTORM BEACH V2",
-    "handle": "snowstorm-beach-v2",
-    "price": 129.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-0936.jpg?v=1782763606",
-    "sizes": [
-      "L"
-    ]
-  },
   "9053429465410": {
     "title": "KOTC FLORALS",
     "handle": "kotc-floral",
@@ -2367,16 +2356,6 @@
       "L"
     ]
   },
-  "9247218762050": {
-    "title": "PUERTO RICO LIMITED",
-    "handle": "puerto-rico-limited",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F281184D-9CB6-4548-BD70-258DCEB5602B.jpg?v=1786131900",
-    "sizes": [
-      "L"
-    ]
-  },
   "9319804698946": {
     "title": "KOLLER CLASSIC '24",
     "handle": "koller-classic",
@@ -2456,7 +2435,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A9A4F83F-EAD5-4F88-A840-8A1E026F8472.jpg?v=1785104255",
     "sizes": [
-      "XL",
       "XXL"
     ]
   },
@@ -2801,16 +2779,6 @@
       "L"
     ]
   },
-  "9839981199682": {
-    "title": "UCSB V3",
-    "handle": "ucsb-v3",
-    "price": 134.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/421C725B-2FE2-4076-9F07-5DA181939CD5.jpg?v=1784662643",
-    "sizes": [
-      "XXL"
-    ]
-  },
   "9840663200066": {
     "title": "PULSE GRADIENTS",
     "handle": "pulse-gradients",
@@ -2953,8 +2921,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/AAC975EC-EAB0-4265-8FF3-18B247112DE4.jpg?v=1786471493",
     "sizes": [
-      "M",
-      "L"
+      "M"
     ]
   },
   "9921533411650": {
