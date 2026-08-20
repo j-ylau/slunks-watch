@@ -155,6 +155,16 @@
       "M"
     ]
   },
+  "10020109779266": {
+    "title": "KING CRABB",
+    "handle": "king-crabb",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BAE81A16-9646-4FD9-A069-E00FB9D9F112.jpg?v=1787202776",
+    "sizes": [
+      "S"
+    ]
+  },
   "10020111679810": {
     "title": "NORCAL BLACK",
     "handle": "norcal-black",
@@ -354,6 +364,18 @@
       "M"
     ]
   },
+  "10140610822466": {
+    "title": "415 DRAGON CUSTOMS",
+    "handle": "415-dragon-customs",
+    "price": 199.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EC1D6DBA-4685-4613-80C8-FB4ECA0A8C85.jpg?v=1786129545",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
   "10146703900994": {
     "title": "FULL SEND LOGOS",
     "handle": "full-send-box-logo-s",
@@ -502,16 +524,6 @@
       "XL"
     ]
   },
-  "10191203991874": {
-    "title": "SD BEACH PINK",
-    "handle": "sd-beach-pink",
-    "price": 229.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_40307ff7-8666-4dd5-bc29-1a303a6f8d3c.png?v=1766788003",
-    "sizes": [
-      "L"
-    ]
-  },
   "10191993897282": {
     "title": "KAIMANA FLOWERS",
     "handle": "kaimana-flowers",
@@ -563,7 +575,8 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9A7C87D7-D8B6-4C2D-94ED-130C4826AC98.jpg?v=1784337704",
     "sizes": [
       "M",
-      "L"
+      "L",
+      "XL"
     ]
   },
   "10224204939586": {
@@ -1843,16 +1856,6 @@
       "M"
     ]
   },
-  "8700582461762": {
-    "title": "RED DRAGONS",
-    "handle": "the-top-limited-slunksmarket-dragon-collection-rose-edition",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_a20b7d79-f5d5-4420-87cc-49699e67e38e.jpg?v=1700334197",
-    "sizes": [
-      "M"
-    ]
-  },
   "8883840745794": {
     "title": "OCVC DON'T SUCK",
     "handle": "ocvc-dont-suck-grail",
@@ -2095,16 +2098,6 @@
     "price": 164.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/21709140-44CA-4162-A7DE-38DD3DD622EA.jpg?v=1784662644",
-    "sizes": [
-      "M"
-    ]
-  },
-  "9006160249154": {
-    "title": "BAD BOY PRIMOS BLACK",
-    "handle": "bad-boys-black",
-    "price": 129.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/40A41662-E8D4-41B3-BCAC-0B7788BA774B.jpg?v=1784157597",
     "sizes": [
       "M"
     ]
@@ -2843,7 +2836,7 @@
   "9887827394882": {
     "title": "SD BEACH BEIGE",
     "handle": "ucsb-beige",
-    "price": 239.99,
+    "price": 229.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/74453C67-E2BD-4437-BD8E-7AD43EE33472.jpg?v=1785099148",
     "sizes": [
