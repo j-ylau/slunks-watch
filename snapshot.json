@@ -502,6 +502,16 @@
       "XL"
     ]
   },
+  "10191203991874": {
+    "title": "SD BEACH PINK",
+    "handle": "sd-beach-pink",
+    "price": 229.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_40307ff7-8666-4dd5-bc29-1a303a6f8d3c.png?v=1766788003",
+    "sizes": [
+      "L"
+    ]
+  },
   "10191993897282": {
     "title": "KAIMANA FLOWERS",
     "handle": "kaimana-flowers",
@@ -2833,7 +2843,7 @@
   "9887827394882": {
     "title": "SD BEACH BEIGE",
     "handle": "ucsb-beige",
-    "price": 219.99,
+    "price": 239.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/74453C67-E2BD-4437-BD8E-7AD43EE33472.jpg?v=1785099148",
     "sizes": [
