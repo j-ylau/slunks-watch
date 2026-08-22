@@ -2256,13 +2256,15 @@
       "M"
     ]
   },
-  "9088315261250": {
-    "title": "SUELUONGS",
-    "handle": "lunar-dragons-1",
-    "price": 239.99,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0DAD7731-8DB0-45DB-8EBE-42CABDAC56B4.jpg?v=1787375711",
-    "sizes": []
+  "9088260735298": {
+    "title": "OCC PADDLERS BLACK",
+    "handle": "occ-black-grail",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9890962E-E993-4782-9804-33AC4C96C773.jpg?v=1784327483",
+    "sizes": [
+      "S"
+    ]
   },
   "9100103975234": {
     "title": "HBC RHINOS",
