@@ -165,6 +165,16 @@
       "S"
     ]
   },
+  "10020110238018": {
+    "title": "NEB JUNGLE CAT",
+    "handle": "neb-jungle-cat",
+    "price": 279.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/DE95022A-E39B-41CF-B329-DA0489E7AA51.jpg?v=1787424717",
+    "sizes": [
+      "M"
+    ]
+  },
   "10020111679810": {
     "title": "NORCAL BLACK",
     "handle": "norcal-black",
@@ -2921,6 +2931,16 @@
     "price": 89.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0810A61B-29C9-4C9F-82B3-BB469581A2DC.jpg?v=1784662546",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9899034968386": {
+    "title": "BREAST CANCER DRAGONS",
+    "handle": "breast-cancer-dragons",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6A4D57FB-0574-4626-8DEB-7182ADCFF1FA.jpg?v=1787424717",
     "sizes": [
       "M"
     ]
