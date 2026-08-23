@@ -1807,6 +1807,16 @@
       "L"
     ]
   },
+  "10484220297538": {
+    "title": "MERRY SLUNKMAS",
+    "handle": "merry-slunkmas",
+    "price": 114.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B20C7B65-3F1C-44A8-9B0F-909A6715F751.jpg?v=1787468275",
+    "sizes": [
+      "M"
+    ]
+  },
   "8161227243842": {
     "title": "SAMURAI ORIGINAL BLACK",
     "handle": "slunksmarket-customs-samurais",
@@ -1894,6 +1904,16 @@
       "M"
     ]
   },
+  "8883803226434": {
+    "title": "OCC OG WHITE",
+    "handle": "occ-hawaii-slunks",
+    "price": 164.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C4A9BA15-7D07-4896-862C-35877E098BCF.jpg?v=1787468275",
+    "sizes": [
+      "L"
+    ]
+  },
   "8883840745794": {
     "title": "OCVC DON'T SUCK",
     "handle": "ocvc-dont-suck-grail",
@@ -1901,6 +1921,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/D042FA87-60E9-4D83-9E67-B735FE580FB4.jpg?v=1785112205",
     "sizes": [
+      "M",
       "L"
     ]
   },
@@ -2054,7 +2075,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/083A1BFD-26DD-4EEE-A486-CDDE811A6B7D.jpg?v=1784331674",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "8994325037378": {
@@ -2136,7 +2158,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9E456C21-7439-4DC2-836F-1868490EFE45.jpg?v=1785110388",
     "sizes": [
-      "M"
+      "M",
+      "XL"
     ]
   },
   "9006078099778": {
@@ -2478,10 +2501,20 @@
       "XXL"
     ]
   },
+  "9579750392130": {
+    "title": "LITTLE THINGS",
+    "handle": "little-things",
+    "price": 114.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F3594B99-8A39-46C7-80DC-396AEA2A69A1.jpg?v=1787468275",
+    "sizes": [
+      "L"
+    ]
+  },
   "9620120174914": {
     "title": "EARTH DAY V1",
     "handle": "earth-day-v1",
-    "price": 159.99,
+    "price": 149.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/70AED3E0-C796-43F4-8AA6-49DFB7FD9AE8.jpg?v=1785104074",
     "sizes": [
@@ -2880,6 +2913,16 @@
       "L"
     ]
   },
+  "9851729641794": {
+    "title": "SFSU V3",
+    "handle": "sfsu-v3",
+    "price": 139.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9AC7F6BF-5927-4F63-B061-94EDF19B97C2.jpg?v=1785875670",
+    "sizes": [
+      "M"
+    ]
+  },
   "9858266628418": {
     "title": "YANKKKS",
     "handle": "the-yankkks",
@@ -3089,6 +3132,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E84E46F4-B054-4EC8-8BF2-A154BA690A50.jpg?v=1784324165",
     "sizes": [
       "M"
+    ]
+  },
+  "9962744086850": {
+    "title": "AVP CHICAGO",
+    "handle": "avp-chicago",
+    "price": 154.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A7C6894B-D455-4434-9849-0BC4F6DD8DDA.jpg?v=1787468276",
+    "sizes": [
+      "L"
     ]
   },
   "9963968332098": {
