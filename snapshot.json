@@ -772,16 +772,6 @@
       "M"
     ]
   },
-  "10225710530882": {
-    "title": "SLUNKS UP",
-    "handle": "slunks-up-luau",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/05DE2393-2820-499C-889B-A60AD6CD5C63.jpg?v=1769810763",
-    "sizes": [
-      "L"
-    ]
-  },
   "10233935036738": {
     "title": "DENNIS LAFATA '26",
     "handle": "dennis-lafata-2026-exclusives",
@@ -879,7 +869,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-4346.jpg?v=1780166268",
     "sizes": [
-      "S",
       "M",
       "XL"
     ]
@@ -914,37 +903,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6814633A-5A14-4BDB-9308-09656EFA08B9.jpg?v=1786411421",
     "sizes": [
-      "L"
-    ]
-  },
-  "10321102635330": {
-    "title": "PINNACLES '25",
-    "handle": "pinnacles-2025",
-    "price": 89.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CEEA5F72-BE84-4B20-A0CA-30608DCB5EC2.jpg?v=1778086276",
-    "sizes": [
-      "M"
-    ]
-  },
-  "10321120166210": {
-    "title": "KANSAS CITY SKYLINE",
-    "handle": "kansas-city-customs",
-    "price": 119.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/AF140DF5-6812-405D-941E-7BA4766CEC58.jpg?v=1778090671",
-    "sizes": [
-      "S"
-    ]
-  },
-  "10321122885954": {
-    "title": "CAROLINA CROWN",
-    "handle": "carolina-crown",
-    "price": 114.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/20AC1154-4388-442F-8E68-5F940448A7A2.jpg?v=1778091414",
-    "sizes": [
-      "M",
       "L"
     ]
   },
