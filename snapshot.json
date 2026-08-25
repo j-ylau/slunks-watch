@@ -2341,16 +2341,6 @@
       "S"
     ]
   },
-  "9121239368002": {
-    "title": "AVP NOLA",
-    "handle": "avp-nola-s",
-    "price": 99.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CE7AA13E-1FFF-4145-9D4B-BEAEB5C89FD6.jpg?v=1785109499",
-    "sizes": [
-      "M"
-    ]
-  },
   "9121240318274": {
     "title": "AVP MANHATTAN V1",
     "handle": "avp-manhattan-v1",
@@ -2738,7 +2728,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3AE710DB-506E-464E-844E-E779765C9884.jpg?v=1784662596",
     "sizes": [
-      "S",
       "M"
     ]
   },
