@@ -1305,7 +1305,7 @@
   "10420155220290": {
     "title": "TEAM'SOTA V1",
     "handle": "teamsota-v1",
-    "price": 99.99,
+    "price": 89.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5FB970DA-9027-4098-BF4D-DBC8825097F3.jpg?v=1784157740",
     "sizes": [
@@ -1769,6 +1769,16 @@
     "price": 114.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B20C7B65-3F1C-44A8-9B0F-909A6715F751.jpg?v=1787468275",
+    "sizes": [
+      "M"
+    ]
+  },
+  "10491638677826": {
+    "title": "TEAM'SOTA V2",
+    "handle": "teamsota-v2",
+    "price": 94.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F861734E-4B66-4D6B-901A-3EB64CBA0D6C.jpg?v=1787780079",
     "sizes": [
       "M"
     ]
