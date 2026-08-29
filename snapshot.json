@@ -172,8 +172,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BAE81A16-9646-4FD9-A069-E00FB9D9F112.jpg?v=1787202776",
     "sizes": [
-      "S",
-      "M"
+      "S"
     ]
   },
   "10020110238018": {
@@ -300,7 +299,7 @@
   "10031971696962": {
     "title": "626 MAMBA",
     "handle": "626-mamba-venom",
-    "price": 239.99,
+    "price": 219.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0E738413-1CE9-4B3A-8323-AB954D8CE83C.jpg?v=1787375711",
     "sizes": [
@@ -393,16 +392,6 @@
     "sizes": [
       "S",
       "M"
-    ]
-  },
-  "10115527803202": {
-    "title": "PHOENIX FLAMES",
-    "handle": "untitled-oct23_13-12",
-    "price": 119.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/45AFC44C-0EF8-46F8-BE7B-187505EB7515.jpg?v=1784329169",
-    "sizes": [
-      "S"
     ]
   },
   "10117695013186": {
@@ -1596,6 +1585,14 @@
     "sizes": [
       "M"
     ]
+  },
+  "10447962636610": {
+    "title": "KOREAN OLYMPICS",
+    "handle": "korean-olympics",
+    "price": 219.99,
+    "available": false,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A745842A-28C0-470B-9106-7FC869BD6981.jpg?v=1786237533",
+    "sizes": []
   },
   "10456923734338": {
     "title": "CA VOLLEY STARS",
@@ -2974,16 +2971,6 @@
       "M"
     ]
   },
-  "9899034968386": {
-    "title": "BREAST CANCER DRAGONS",
-    "handle": "breast-cancer-dragons",
-    "price": 199.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6A4D57FB-0574-4626-8DEB-7182ADCFF1FA.jpg?v=1787424717",
-    "sizes": [
-      "M"
-    ]
-  },
   "9919758696770": {
     "title": "OCC OG PADDLERS BLUE",
     "handle": "blue-occ",
@@ -3100,6 +3087,14 @@
     "sizes": [
       "M"
     ]
+  },
+  "9962744086850": {
+    "title": "AVP CHICAGO",
+    "handle": "avp-chicago",
+    "price": 154.99,
+    "available": false,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A7C6894B-D455-4434-9849-0BC4F6DD8DDA.jpg?v=1787468276",
+    "sizes": []
   },
   "9963968332098": {
     "title": "NEO CITY",
