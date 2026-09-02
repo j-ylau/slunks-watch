@@ -2434,6 +2434,16 @@
       "M"
     ]
   },
+  "9493682258242": {
+    "title": "OOS SILKS",
+    "handle": "oos-v5",
+    "price": 129.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/21D22B8F-C8B1-4235-95F3-B7309457B1A7.jpg?v=1788372213",
+    "sizes": [
+      "L"
+    ]
+  },
   "9493706604866": {
     "title": "LACO MOTTO",
     "handle": "laco-v2",
@@ -2655,6 +2665,16 @@
     "price": 139.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2E16C223-7A7C-4DEA-AC66-61E42DB0AF07.jpg?v=1785101695",
+    "sizes": [
+      "M"
+    ]
+  },
+  "9705354428738": {
+    "title": "ADVERSITY ROSES",
+    "handle": "adversity-roses",
+    "price": 114.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2F357BAA-8A7D-479D-AFF4-788F74BFFB62.jpg?v=1785101520",
     "sizes": [
       "M"
     ]
