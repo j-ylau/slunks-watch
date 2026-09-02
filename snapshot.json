@@ -2031,7 +2031,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/5E15143D-3449-474D-81FD-BE2C67EA62BA.jpg?v=1784329589",
     "sizes": [
-      "S",
       "XXL"
     ]
   },
@@ -2424,6 +2423,16 @@
       "M"
     ]
   },
+  "9473095303490": {
+    "title": "PULSE GALAXYS",
+    "handle": "pulse-moon-slunks",
+    "price": 104.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8B6AF6CA-C634-4268-A5FC-D7D9E0E5EA80.jpg?v=1784832670",
+    "sizes": [
+      "M"
+    ]
+  },
   "9493706604866": {
     "title": "LACO MOTTO",
     "handle": "laco-v2",
@@ -2637,6 +2646,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3D80F293-9909-436F-9CD7-E1430766F9FE.jpg?v=1787375711",
     "sizes": [
       "L"
+    ]
+  },
+  "9697552761154": {
+    "title": "UC ELITES",
+    "handle": "uc-elites",
+    "price": 139.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2E16C223-7A7C-4DEA-AC66-61E42DB0AF07.jpg?v=1785101695",
+    "sizes": [
+      "M"
     ]
   },
   "9705354625346": {
