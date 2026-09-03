@@ -2800,7 +2800,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/3A8863CD-C921-4A31-8585-63A1842542BA.jpg?v=1785796250",
     "sizes": [
-      "M",
       "L",
       "XL"
     ]
@@ -2912,16 +2911,6 @@
     "sizes": [
       "M",
       "L"
-    ]
-  },
-  "9851729641794": {
-    "title": "SFSU V3",
-    "handle": "sfsu-v3",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9AC7F6BF-5927-4F63-B061-94EDF19B97C2.jpg?v=1785875670",
-    "sizes": [
-      "M"
     ]
   },
   "9858266628418": {
