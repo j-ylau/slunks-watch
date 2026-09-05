@@ -175,14 +175,6 @@
       "S"
     ]
   },
-  "10020110238018": {
-    "title": "NEB JUNGLE CAT",
-    "handle": "neb-jungle-cat",
-    "price": 279.99,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/DE95022A-E39B-41CF-B329-DA0489E7AA51.jpg?v=1787424717",
-    "sizes": []
-  },
   "10020111679810": {
     "title": "NORCAL BLACK",
     "handle": "norcal-black",
@@ -2852,14 +2844,6 @@
       "XXS"
     ]
   },
-  "9824404144450": {
-    "title": "UC DAVIS V2 WHITE",
-    "handle": "uc-davis-v2-white",
-    "price": 159.99,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2DA7E3A0-4BE1-4E2E-B59A-52DB57A8E11E.jpg?v=1787424717",
-    "sizes": []
-  },
   "9824404308290": {
     "title": "UC DAVIS V2 NAVY",
     "handle": "uc-davis-v2-navy",
@@ -3091,14 +3075,6 @@
     "sizes": [
       "M"
     ]
-  },
-  "9962744086850": {
-    "title": "AVP CHICAGO",
-    "handle": "avp-chicago",
-    "price": 154.99,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A7C6894B-D455-4434-9849-0BC4F6DD8DDA.jpg?v=1787468276",
-    "sizes": []
   },
   "9963968332098": {
     "title": "NEO CITY",
