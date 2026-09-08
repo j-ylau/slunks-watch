@@ -1221,7 +1221,7 @@
   "10420035518786": {
     "title": "SHADOW SERPENT BLOSSOMS WHITE",
     "handle": "shadow-serpent-blossoms-white",
-    "price": 144.99,
+    "price": 119.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C212FFC6-CDDA-4266-886B-037B404B4565.jpg?v=1784662595",
     "sizes": [
@@ -1719,6 +1719,21 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B20C7B65-3F1C-44A8-9B0F-909A6715F751.jpg?v=1787468275",
     "sizes": [
       "M"
+    ]
+  },
+  "10522005733698": {
+    "title": "GUN SLINGER",
+    "handle": "gun-slinger",
+    "price": 119.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-4287.jpg?v=1788900566",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ]
   },
   "8161227243842": {
