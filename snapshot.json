@@ -1842,16 +1842,6 @@
       "XL"
     ]
   },
-  "8934876217666": {
-    "title": "OBV WHITE FLORALS",
-    "handle": "obv-white-floral-slunks",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2FE8F6A4-3FCA-49B7-9DF7-75B2C7F776B4.jpg?v=1784662596",
-    "sizes": [
-      "M"
-    ]
-  },
   "8934881755458": {
     "title": "BALBOA BAY OG WHITE",
     "handle": "balboa-bay-white-slunks",
@@ -2124,16 +2114,6 @@
     "price": 149.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C62D5389-6789-4848-9DDA-68B54D85F1C8.jpg?v=1785110197",
-    "sizes": [
-      "M"
-    ]
-  },
-  "9023328289090": {
-    "title": "OOS REVERSE TRINITY",
-    "handle": "oos-rev-trinity",
-    "price": 234.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-2540.jpg?v=1785478442",
     "sizes": [
       "M"
     ]
@@ -2947,7 +2927,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/941BC79E-C1A8-4CF1-8FA1-E060A8A45857.jpg?v=1784327287",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "9919760236866": {
