@@ -2443,6 +2443,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EAD2DE81-AFCB-43F6-B1F0-30EB1E5C50FE.jpg?v=1789593490",
     "sizes": [
+      "XL",
       "XXL"
     ]
   },
@@ -2588,6 +2589,16 @@
       "XL"
     ]
   },
+  "9654469165378": {
+    "title": "BAD BOYS OC CROWN",
+    "handle": "bad-boys-oc-crown",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2852FCC2-988F-4C12-8020-554C50BDBE11.jpg?v=1785102871",
+    "sizes": [
+      "S"
+    ]
+  },
   "9666801795394": {
     "title": "LACO x TWU V2",
     "handle": "laco-x-twu",
@@ -2730,6 +2741,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/463A2E25-12DF-4555-85B5-AC90FC62A8D3.jpg?v=1784832646",
     "sizes": [
       "M"
+    ]
+  },
+  "9762278932802": {
+    "title": "9 MAN NACIVT",
+    "handle": "9-man-exclusive-s",
+    "price": 219.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6FFFC4B7-33C3-4414-9A2D-1375C0F92A67.jpg?v=1786237534",
+    "sizes": [
+      "XL"
     ]
   },
   "9765217698114": {
