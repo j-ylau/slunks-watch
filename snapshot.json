@@ -9,6 +9,16 @@
       "S"
     ]
   },
+  "10010227999042": {
+    "title": "#USF BEACH",
+    "handle": "fsu-beach",
+    "price": 179.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A8D1B6EB-620D-4153-BB1C-209C19D6E6A9.jpg?v=1769124397",
+    "sizes": [
+      "XL"
+    ]
+  },
   "10010642907458": {
     "title": "949 PALMS",
     "handle": "949-palms",
@@ -3052,7 +3062,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/74FD46AE-B8F6-4880-A466-3D85572D0C72.jpg?v=1784326947",
     "sizes": [
-      "M"
+      "M",
+      "XL"
     ]
   },
   "9991625015618": {
