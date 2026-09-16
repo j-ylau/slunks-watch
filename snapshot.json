@@ -817,6 +817,16 @@
       "M"
     ]
   },
+  "10248224047426": {
+    "title": "#OREGON DUCKS",
+    "handle": "oregon-ducks",
+    "price": 239.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_16a8170f-bb6e-4672-be09-073776613573.png?v=1772398579",
+    "sizes": [
+      "M"
+    ]
+  },
   "10248311767362": {
     "title": "JELLYFISH UNDER THE SEA",
     "handle": "jelly-customs",
@@ -1035,6 +1045,16 @@
     "price": 149.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9ADE6243-A7F1-4A65-8EBC-D84D5EC46A6F.jpg?v=1784157597",
+    "sizes": [
+      "M"
+    ]
+  },
+  "10414781268290": {
+    "title": "OCVC DONUTS V2",
+    "handle": "ocvc-donuts-v2",
+    "price": 199.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CE9DFA10-CB32-4A9C-BF56-379AAF75586D.jpg?v=1784157597",
     "sizes": [
       "M"
     ]
