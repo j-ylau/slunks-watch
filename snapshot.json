@@ -9,16 +9,6 @@
       "S"
     ]
   },
-  "10010227999042": {
-    "title": "USF BEACH",
-    "handle": "fsu-beach",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A8D1B6EB-620D-4153-BB1C-209C19D6E6A9.jpg?v=1769124397",
-    "sizes": [
-      "XL"
-    ]
-  },
   "10010642907458": {
     "title": "949 PALMS",
     "handle": "949-palms",
@@ -415,11 +405,11 @@
     ]
   },
   "10146706424130": {
-    "title": "#LIGHT SIDE DARK SIDE",
+    "title": "LIGHT SIDE DARK SIDE",
     "handle": "light-side-dark-side",
     "price": 169.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/98AE1E48-D5EA-4F3F-A744-DF398A31FDC3.jpg?v=1766541131",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/98AE1E48-D5EA-4F3F-A744-DF398A31FDC3.jpg?v=1789767268",
     "sizes": [
       "XL"
     ]
@@ -746,17 +736,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9A1C69B6-291A-4C2B-B6C5-DA8D28CC5008.jpg?v=1784832646",
     "sizes": [
-      "M"
-    ]
-  },
-  "10225710956866": {
-    "title": "#UCI V1",
-    "handle": "uci-v1",
-    "price": 259.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0C19D62C-BA10-43B3-9FC9-109260E3198A.jpg?v=1769810763",
-    "sizes": [
-      "S",
       "M"
     ]
   },
