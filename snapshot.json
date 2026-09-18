@@ -404,16 +404,6 @@
       "M"
     ]
   },
-  "10146706424130": {
-    "title": "LIGHT SIDE DARK SIDE",
-    "handle": "light-side-dark-side",
-    "price": 169.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/98AE1E48-D5EA-4F3F-A744-DF398A31FDC3.jpg?v=1789767268",
-    "sizes": [
-      "XL"
-    ]
-  },
   "10146708554050": {
     "title": "BJNC '25",
     "handle": "bjnc-2024",
@@ -802,16 +792,6 @@
     "price": 129.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2CEE918B-30D4-459B-AD60-7CAB5BD7475A.jpg?v=1784832670",
-    "sizes": [
-      "M"
-    ]
-  },
-  "10248224047426": {
-    "title": "#OREGON DUCKS",
-    "handle": "oregon-ducks",
-    "price": 239.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_16a8170f-bb6e-4672-be09-073776613573.png?v=1772398579",
     "sizes": [
       "M"
     ]
@@ -2614,7 +2594,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BDEC3D26-DBEC-4CBE-8012-9B37B2CEC0B7.jpg?v=1786129801",
     "sizes": [
-      "S",
       "XL"
     ]
   },
