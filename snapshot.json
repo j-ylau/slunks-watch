@@ -2007,11 +2007,12 @@
   "8994463088962": {
     "title": "SOCAL '23",
     "handle": "socal-2023",
-    "price": 114.99,
+    "price": 104.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C95B4874-690F-482C-8E3E-41F6D74B998E.jpg?v=1784832670",
     "sizes": [
-      "S"
+      "S",
+      "M"
     ]
   },
   "8995165864258": {
