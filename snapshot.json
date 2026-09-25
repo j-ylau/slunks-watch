@@ -847,6 +847,16 @@
       "3XL"
     ]
   },
+  "10273706901826": {
+    "title": "SOCAL '26 PALMS",
+    "handle": "socal-2026",
+    "price": 124.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8BB6FEFD-C934-419E-A3C2-66BE5F22586E.jpg?v=1774142066",
+    "sizes": [
+      "L"
+    ]
+  },
   "10281862988098": {
     "title": "IVA WELCOME TO MIAMI",
     "handle": "iva-welcome-to-maimi-slunks-market-pre-order",
@@ -1760,6 +1770,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/E7706FF1-BE8E-4B3D-847D-3C67D3126910.jpg?v=1785112776",
     "sizes": [
+      "S",
       "M",
       "L"
     ]
