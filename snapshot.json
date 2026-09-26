@@ -68,7 +68,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/207ACD8D-AB24-4641-8793-4B78297EE72C.jpg?v=1784662643",
     "sizes": [
-      "S"
+      "S",
+      "M"
     ]
   },
   "10020074586434": {
@@ -2587,16 +2588,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BDEC3D26-DBEC-4CBE-8012-9B37B2CEC0B7.jpg?v=1786129801",
     "sizes": [
       "XL"
-    ]
-  },
-  "9654469165378": {
-    "title": "BAD BOYS OC CROWN",
-    "handle": "bad-boys-oc-crown",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2852FCC2-988F-4C12-8020-554C50BDBE11.jpg?v=1785102871",
-    "sizes": [
-      "S"
     ]
   },
   "9666801795394": {
