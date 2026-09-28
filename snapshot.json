@@ -732,11 +732,12 @@
   "10225706860866": {
     "title": "OOS WAUPACA '25",
     "handle": "copy-mustangs-hs-1",
-    "price": 184.99,
+    "price": 174.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/F312AA2C-8334-4DE1-BF3D-2B143EB171BC.jpg?v=1769810366",
     "sizes": [
-      "M"
+      "M",
+      "XL"
     ]
   },
   "10225707548994": {
@@ -1762,17 +1763,6 @@
       "M"
     ]
   },
-  "8161227243842": {
-    "title": "SAMURAI ORIGINAL BLACK",
-    "handle": "slunksmarket-customs-samurais",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/87914C65-4D1B-431A-A202-1BABE8148D79.jpg?v=1784157597",
-    "sizes": [
-      "M",
-      "L"
-    ]
-  },
   "8180556955970": {
     "title": "FROG JUMPS V1",
     "handle": "frog-jump-slunks",
@@ -2221,18 +2211,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/412D8472-0F7D-4444-8FF3-A0E2BB73BDEF.jpg?v=1784662596",
     "sizes": [
       "3XL"
-    ]
-  },
-  "9086438277442": {
-    "title": "SLUNKADOODLES",
-    "handle": "slunkdoodles",
-    "price": 114.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/949FE099-ACFE-4618-82A7-8EA5C43BD753.jpg?v=1784662666",
-    "sizes": [
-      "S",
-      "M",
-      "L"
     ]
   },
   "9088259326274": {
