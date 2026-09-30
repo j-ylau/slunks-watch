@@ -541,16 +541,6 @@
       "XL"
     ]
   },
-  "10191203991874": {
-    "title": "SD BEACH PINK",
-    "handle": "sd-beach-pink",
-    "price": 199.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_40307ff7-8666-4dd5-bc29-1a303a6f8d3c.png?v=1766788003",
-    "sizes": [
-      "L"
-    ]
-  },
   "10191993897282": {
     "title": "KAIMANA FLOWERS",
     "handle": "kaimana-flowers",
@@ -1045,16 +1035,6 @@
     "price": 149.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9ADE6243-A7F1-4A65-8EBC-D84D5EC46A6F.jpg?v=1784157597",
-    "sizes": [
-      "M"
-    ]
-  },
-  "10414781268290": {
-    "title": "OCVC DONUTS V2",
-    "handle": "ocvc-donuts-v2",
-    "price": 199.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CE9DFA10-CB32-4A9C-BF56-379AAF75586D.jpg?v=1784157597",
     "sizes": [
       "M"
     ]
@@ -2068,8 +2048,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9E456C21-7439-4DC2-836F-1868490EFE45.jpg?v=1785110388",
     "sizes": [
-      "M",
-      "XL"
+      "M"
     ]
   },
   "9006078099778": {
@@ -2875,7 +2854,7 @@
   "9895257997634": {
     "title": "BLACK SANTA",
     "handle": "black-santa",
-    "price": 149.99,
+    "price": 139.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/A7F2F263-768C-45E6-B72F-8CE5A09786CE.jpg?v=1789593781",
     "sizes": [
@@ -2883,11 +2862,11 @@
     ]
   },
   "9897229287746": {
-    "title": "#CHRISTMAS DOODLES",
+    "title": "CHRISTMAS DOODLES",
     "handle": "christmas-doodles",
     "price": 119.99,
     "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2F4D9699-8F76-4901-99CA-F7B51787970D.jpg?v=1740550313",
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/2F4D9699-8F76-4901-99CA-F7B51787970D.jpg?v=1790744744",
     "sizes": [
       "XL",
       "XXL"
