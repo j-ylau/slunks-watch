@@ -2983,11 +2983,12 @@
   "9981390913858": {
     "title": "OCC BLUE '25",
     "handle": "occ-blue-2025",
-    "price": 169.99,
+    "price": 164.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/74FD46AE-B8F6-4880-A466-3D85572D0C72.jpg?v=1784326947",
     "sizes": [
       "M",
+      "L",
       "XL"
     ]
   },
