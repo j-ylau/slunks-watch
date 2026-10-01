@@ -1717,16 +1717,6 @@
       "M"
     ]
   },
-  "15401891561794": {
-    "title": "WOMENS 757 BEACH V2",
-    "handle": "womens-757-beach-v2",
-    "price": 99.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/53EC873D-8776-4779-A93C-9E1A2D479728.jpg?v=1790814761",
-    "sizes": [
-      "S"
-    ]
-  },
   "15401898049858": {
     "title": "757 BEACH V2",
     "handle": "757-beach-beach-v2",
@@ -2866,11 +2856,12 @@
   "9858266628418": {
     "title": "YANKKKS",
     "handle": "the-yankkks",
-    "price": 139.99,
+    "price": 124.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/C42F6CD9-BE38-4281-BE92-18C97443B759.jpg?v=1785876409",
     "sizes": [
-      "XS"
+      "XS",
+      "M"
     ]
   },
   "9861317984578": {
