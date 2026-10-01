@@ -116,6 +116,16 @@
       "M"
     ]
   },
+  "10020081500482": {
+    "title": "CINCO DE SLUNKO",
+    "handle": "cinco-de-slunko",
+    "price": 119.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0770C641-B03F-4FFE-9599-CFEDBD2F3F48.jpg?v=1790820408",
+    "sizes": [
+      "S"
+    ]
+  },
   "10020081828162": {
     "title": "NEB “BEST DAY EVER”",
     "handle": "neb-best-day-ever",
@@ -184,6 +194,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/9BF9F9E9-E643-4238-854D-670A0D64F3A8.jpg?v=1785092454",
     "sizes": [
       "M"
+    ]
+  },
+  "10020115349826": {
+    "title": "FUDS '25",
+    "handle": "earth-day-2025",
+    "price": 124.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/ECC23711-30DD-4FC5-9A68-B1C20DA72284.jpg?v=1790820409",
+    "sizes": [
+      "L"
     ]
   },
   "10020117545282": {
