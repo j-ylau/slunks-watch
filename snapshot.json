@@ -499,9 +499,9 @@
     ]
   },
   "10169228165442": {
-    "title": "757 BEACH",
+    "title": "757 BEACH V1",
     "handle": "757-beach",
-    "price": 169.99,
+    "price": 139.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/EECAEE55-7D58-42D9-9A8E-E2D895B21405.jpg?v=1786488383",
     "sizes": [
@@ -1715,6 +1715,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0D9C293C-4018-45A9-A7ED-5A08ADA7AF8D.jpg?v=1790376033",
     "sizes": [
       "M"
+    ]
+  },
+  "15401891561794": {
+    "title": "WOMENS 757 BEACH V2",
+    "handle": "womens-757-beach-v2",
+    "price": 99.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/53EC873D-8776-4779-A93C-9E1A2D479728.jpg?v=1790814761",
+    "sizes": [
+      "S"
     ]
   },
   "8152087396674": {
