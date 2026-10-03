@@ -787,7 +787,7 @@
   "10234099433794": {
     "title": "BUL MAL LUNAR NEW YEAR",
     "handle": "bul-mal-lunar-new-year",
-    "price": 104.99,
+    "price": 99.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/97CE03E8-1526-47FA-9C91-5E185C0D6F12.jpg?v=1785982616",
     "sizes": [
@@ -1535,7 +1535,7 @@
   "10438788448578": {
     "title": "CVC TIDAL WAVES",
     "handle": "cvc-tidal-waves",
-    "price": 144.99,
+    "price": 149.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-4650.jpg?v=1785902721",
     "sizes": [
@@ -1683,6 +1683,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/D873E012-2E98-4E07-9BA6-EA2FF792A283.jpg?v=1789709040",
     "sizes": [
+      "M",
       "L"
     ]
   },
