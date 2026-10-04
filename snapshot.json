@@ -1707,16 +1707,6 @@
       "L"
     ]
   },
-  "15393949122882": {
-    "title": "COAST '26",
-    "handle": "coast-26",
-    "price": 149.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0D9C293C-4018-45A9-A7ED-5A08ADA7AF8D.jpg?v=1790376033",
-    "sizes": [
-      "M"
-    ]
-  },
   "15401898049858": {
     "title": "757 BEACH V2",
     "handle": "757-beach-beach-v2",
@@ -2481,7 +2471,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_4b3cde0b-bc3d-4f47-a628-7439d51111f6.jpg?v=1717277485",
     "sizes": [
-      "M",
       "XL"
     ]
   },
