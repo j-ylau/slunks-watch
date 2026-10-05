@@ -321,6 +321,16 @@
       "L"
     ]
   },
+  "10047388254530": {
+    "title": "#SFSU V4",
+    "handle": "sfsu-v4",
+    "price": 149.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_6aae873b-276d-4886-96db-2abb4e13616c.jpg?v=1760075222",
+    "sizes": [
+      "M"
+    ]
+  },
   "10083018473794": {
     "title": "YORKTOWNE '24 WHITE",
     "handle": "yorktowne-2025-white",
@@ -1975,7 +1985,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/50AA6CE5-EC4C-44FA-89C3-7F1762A380AF.jpg?v=1786237534",
     "sizes": [
-      "M",
       "L"
     ]
   },
