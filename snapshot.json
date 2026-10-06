@@ -371,7 +371,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-9684.jpg?v=1774139516",
     "sizes": [
-      "M"
+      "M",
+      "XL"
     ]
   },
   "10104040063298": {
@@ -1882,6 +1883,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/63CB2542-554A-46DD-ACF4-702C2D7F3486.jpg?v=1786416256",
     "sizes": [
+      "L",
       "XL"
     ]
   },
