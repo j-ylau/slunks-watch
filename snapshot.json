@@ -1652,6 +1652,46 @@
       "M"
     ]
   },
+  "10491203518786": {
+    "title": "WOMENS MANHATTANS V3",
+    "handle": "womans-manhattans-v2",
+    "price": 109.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/997F2BF7-2EC4-44A6-9042-6BA6E9FF0C88.jpg?v=1787468276",
+    "sizes": [
+      "M"
+    ]
+  },
+  "10491211809090": {
+    "title": "WOMENS MANHATTANS V2",
+    "handle": "womans-manhattans-v2-1",
+    "price": 109.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8725115C-CFB9-42D9-BC91-9E6694F3BC08.jpg?v=1787468275",
+    "sizes": [
+      "M"
+    ]
+  },
+  "10491665940802": {
+    "title": "WOMENS MERRIMACK",
+    "handle": "woman-merrimack",
+    "price": 79.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6EA76E5E-4B9C-4FDB-9972-6A43F07A1B68.jpg?v=1787780079",
+    "sizes": [
+      "S"
+    ]
+  },
+  "10491676164418": {
+    "title": "WOMENS 949 MATRIX",
+    "handle": "womans-949-matrix",
+    "price": 74.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/1DC0E688-9B63-444B-AFD4-75AFBC030F96.jpg?v=1787780079",
+    "sizes": [
+      "S"
+    ]
+  },
   "10522005733698": {
     "title": "GUN SLINGER",
     "handle": "gun-slinger",
@@ -1703,6 +1743,26 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/B6725F41-38C6-4255-85DE-07B1093EC7AF.jpg?v=1790376033",
     "sizes": [
       "L"
+    ]
+  },
+  "15401882911042": {
+    "title": "WOMENS 757 BEACH V1",
+    "handle": "womens-757-beach",
+    "price": 99.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/BD91B599-3B0D-42A9-96BD-7DC39162CD2E.jpg?v=1790814761",
+    "sizes": [
+      "S"
+    ]
+  },
+  "15401891561794": {
+    "title": "WOMENS 757 BEACH V2",
+    "handle": "womens-757-beach-v2",
+    "price": 99.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/53EC873D-8776-4779-A93C-9E1A2D479728.jpg?v=1790814761",
+    "sizes": [
+      "S"
     ]
   },
   "15401898049858": {
