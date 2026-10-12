@@ -294,7 +294,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0E738413-1CE9-4B3A-8323-AB954D8CE83C.jpg?v=1787375711",
     "sizes": [
-      "M",
       "XL"
     ]
   },
@@ -1863,16 +1862,6 @@
     "price": 139.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_d26a0405-c8ef-49a5-ae0a-d08fca82d488.jpg?v=1791582493",
-    "sizes": [
-      "M"
-    ]
-  },
-  "15417896534338": {
-    "title": "FUDS BLACK PALMS",
-    "handle": "fuds-black-waves",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_8d414723-05ce-4073-8cc0-bffac39bf65f.jpg?v=1791585537",
     "sizes": [
       "M"
     ]
