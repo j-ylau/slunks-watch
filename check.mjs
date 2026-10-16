@@ -165,9 +165,10 @@ async function notify(text, opts = {}) {
   const headers = {
     Title: title.replace(/[^\x20-\x7E]/g, "").trim(),
     Tags: tags,
-    Click: click,
+    // URLs may carry non-ASCII (e.g. emoji handles); percent-encode them
+    Click: encodeURI(click),
   };
-  if (attach) headers.Attach = attach;
+  if (attach) headers.Attach = encodeURI(attach);
   const res = await fetch(`${NTFY_SERVER}/${NTFY_TOPIC}`, {
     method: "POST",
     headers,
