@@ -526,14 +526,6 @@
       "M"
     ]
   },
-  "10185928540482": {
-    "title": "I <3 BOOBIES! BLACK",
-    "handle": "i-❤️-boobie",
-    "price": 154.99,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FCC09DC5-AF70-4A68-A467-24A74B2F20AF.jpg?v=1792177009",
-    "sizes": []
-  },
   "10187132240194": {
     "title": "GLACIER WOLVES",
     "handle": "untitled-dec19_08-51",
@@ -2492,6 +2484,16 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/FullSizeRender_07633987-e37f-403a-a38f-cd54ed804c80.jpg?v=1713125509",
     "sizes": [
       "M"
+    ]
+  },
+  "9417620554050": {
+    "title": "POT O’ SLUNKS",
+    "handle": "pot-o-slunks",
+    "price": 114.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/62FDE134-7AD5-4107-AA68-93783FAEED8E.jpg?v=1787000882",
+    "sizes": [
+      "S"
     ]
   },
   "9456190849346": {
