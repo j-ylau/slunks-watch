@@ -779,7 +779,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-9064.jpg?v=1771034460",
     "sizes": [
       "S",
-      "M",
       "L"
     ]
   },
@@ -1886,8 +1885,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/123_1.jpg?v=1793462293",
     "sizes": [
-      "M",
-      "XL"
+      "M"
     ]
   },
   "8152087396674": {
@@ -2106,16 +2104,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/50AA6CE5-EC4C-44FA-89C3-7F1762A380AF.jpg?v=1786237534",
     "sizes": [
       "L"
-    ]
-  },
-  "8993206010178": {
-    "title": "OBV ACES",
-    "handle": "obv-cards",
-    "price": 139.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/8E144C9C-CCF0-48AF-A063-B67E4B57BCF5.jpg?v=1784662643",
-    "sizes": [
-      "M"
     ]
   },
   "8993207812418": {
