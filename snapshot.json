@@ -50,6 +50,16 @@
       "L"
     ]
   },
+  "10014929682754": {
+    "title": "LA STRONG",
+    "handle": "la-strong",
+    "price": 159.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG_5490-Photoroom.png?v=1793846141",
+    "sizes": [
+      "S"
+    ]
+  },
   "10017128055106": {
     "title": "BAD BOYS OC CROWN V2",
     "handle": "bad-boys-open-oc-crown-v2",
@@ -1873,6 +1883,16 @@
     "price": 119.99,
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/123_1.jpg?v=1793462293",
+    "sizes": [
+      "M"
+    ]
+  },
+  "15495750123842": {
+    "title": "GCU ANTELOPE",
+    "handle": "gcu-antalope",
+    "price": 159.99,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG_5494-Photoroom.png?v=1793846686",
     "sizes": [
       "M"
     ]
