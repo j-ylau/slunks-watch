@@ -1,0 +1,45 @@
+name: failure-alert
+
+# Fires after a slunks-watch run completes. Sends an ntfy alert only when the
+# failure is real (at least one job actually ran). Runs that fail with zero
+# jobs never left GitHub's queue — that is a GitHub Actions outage, not a bug
+# in this repo — so they are ignored. The 5-minute poll self-heals once
+# GitHub recovers.
+#
+# Pair this with turning off GitHub's own "workflow failed" emails:
+# github.com/settings/notifications -> Actions -> uncheck Email.
+
+on:
+  workflow_run:
+    workflows: [slunks-watch]
+    types: [completed]
+
+permissions:
+  actions: read
+
+jobs:
+  alert:
+    if: github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Alert only on real failures
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+        run: |
+          jobs=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}/jobs" --jq '.total_count')
+          echo "run ${RUN_ID} failed with ${jobs} job(s)"
+          if [ "$jobs" = "0" ]; then
+            echo "zero jobs ran: GitHub Actions outage, staying silent"
+            exit 0
+          fi
+          failed=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}/jobs" \
+            --jq '[.jobs[].steps[] | select(.conclusion=="failure") | .name] | join(", ")')
+          curl -fsS -X POST "https://ntfy.sh/${NTFY_TOPIC}" \
+            -H "Title: slunks-watch failed" \
+            -H "Priority: high" \
+            -H "Tags: rotating_light" \
+            -H "Click: ${RUN_URL}" \
+            -d "Failed step(s): ${failed:-unknown}"
