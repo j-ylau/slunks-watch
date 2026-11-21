@@ -304,7 +304,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-5750.jpg?v=1785090943",
     "sizes": [
-      "S",
       "M",
       "L"
     ]
@@ -1584,16 +1583,6 @@
       "M"
     ]
   },
-  "10491203518786": {
-    "title": "WOMENS MANHATTANS V3",
-    "handle": "womans-manhattans-v2",
-    "price": 109.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/997F2BF7-2EC4-44A6-9042-6BA6E9FF0C88.jpg?v=1787468276",
-    "sizes": [
-      "M"
-    ]
-  },
   "10491211809090": {
     "title": "WOMENS MANHATTANS V2",
     "handle": "womans-manhattans-v2-1",
@@ -1912,16 +1901,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/IMG-6329.jpg?v=1789765688",
     "sizes": [
       "M"
-    ]
-  },
-  "8161227243842": {
-    "title": "SAMURAI ORIGINAL BLACK",
-    "handle": "slunksmarket-customs-samurais",
-    "price": 119.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/87914C65-4D1B-431A-A202-1BABE8148D79.jpg?v=1784157597",
-    "sizes": [
-      "L"
     ]
   },
   "8372500103490": {
