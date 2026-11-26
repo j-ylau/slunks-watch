@@ -281,8 +281,7 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/6FF2F4BF-0A89-4434-9A17-72A1ECDDF9C8.jpg?v=1784662546",
     "sizes": [
-      "L",
-      "XL"
+      "L"
     ]
   },
   "10031971696962": {
@@ -688,16 +687,6 @@
       "S"
     ]
   },
-  "10225593614658": {
-    "title": "NCVF",
-    "handle": "copy-oos-spins",
-    "price": 179.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/rn-image_picker_lib_temp_c69a854f-233c-47b7-befc-f47aba992ca4.jpg?v=1791581129",
-    "sizes": [
-      "M"
-    ]
-  },
   "10225706434882": {
     "title": "AVP MANHATTAN V3",
     "handle": "copy-mustangs-hs",
@@ -1005,16 +994,6 @@
       "S"
     ]
   },
-  "10414907916610": {
-    "title": "PURE ALOHA '26 WHITE",
-    "handle": "pure-aloha-26-white",
-    "price": 159.99,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/72FA4401-901D-4FFB-B6A5-8857A8565871.jpg?v=1784157644",
-    "sizes": [
-      "M"
-    ]
-  },
   "10414925381954": {
     "title": "SEASIDES BLACK FLORALS",
     "handle": "seasides-black-florals",
@@ -1032,7 +1011,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/4CC6B032-1FCB-4E1A-B8FE-8269E56817F6.jpg?v=1784157696",
     "sizes": [
-      "M",
       "L"
     ]
   },
@@ -2284,7 +2262,8 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/0DAD7731-8DB0-45DB-8EBE-42CABDAC56B4.jpg?v=1787375711",
     "sizes": [
-      "M"
+      "M",
+      "L"
     ]
   },
   "9100103975234": {
@@ -2314,7 +2293,9 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0724/6132/0514/files/CAD29CA1-9590-4D3B-8875-AAA803CDA746.jpg?v=1785109637",
     "sizes": [
-      "S"
+      "S",
+      "L",
+      "XL"
     ]
   },
   "9121240318274": {
